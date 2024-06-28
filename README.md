@@ -98,7 +98,7 @@
      Etna</a> <br>
 
    <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://www.ristoranteosservatoriostromboli.com/webcam/">
+     <a href="https://vedetta.org/vedetta/stromboli/index.php">
     Stromboli</a> <br>
   <br>
   </p>
