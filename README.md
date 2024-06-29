@@ -15,8 +15,8 @@
     <frame src="leer.html" name="titel" MARGINHEIGHT="0" MARGINWIDTH="0" NORESIZE SCROLLING="NO">
     </frame>
 
-    <frame src="https://hs-bremen.github.io/#Anfang" name="main" MARGINWIDTH="0" MARGINHEIGHT="0" FRAMEBORDER="0" framespacing="0" NORESIZE SCROLLING="NO">     <FRAME SRC="https://hs-bremen.github.io" name="main" MARGINWIDTH="0" MARGINHEIGHT="0" FRAMEBORDER="0" framespacing="0" NORESIZE SCROLLING="NO">
-    </frame>
+    <frame src="https://hs-bremen.github.io/#Anfang" name="main" MARGINWIDTH="0" MARGINHEIGHT="0" FRAMEBORDER="0" framespacing="0" NORESIZE SCROLLING="NO">     
+      </frame>
   </FRAMESET>
 
 </FRAMESET>
