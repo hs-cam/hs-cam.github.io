@@ -1,6 +1,6 @@
 <html>
 
-<FRAMESET COLS="198,1*" BORDER="1" FRAMEBORDER="1" framespacing="0">
+
 
 
 
@@ -8,5 +8,5 @@
       </frame>
 
 
-</FRAMESET>
+
 </html>
