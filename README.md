@@ -1,112 +1,23 @@
-# hs-cam.github.io
-<html lang="de">
-<head>
-   <meta charset="utf-8">
-   <meta name="description" content="" />
-   <meta name="keywords" content="HTML, Metatags" />
-   <meta name="H.S." content="gp" />
+<html>
 
-</head> 
+<FRAMESET COLS="198,1*" BORDER="1" FRAMEBORDER="1" framespacing="0">
 
+   <FRAMESET ROWS="87,1*,20" BORDER="1" FRAMEBORDER="1" framespacing="0">
+     <frame src="leer.html" name="leer" MARGINHEIGHT="0" MARGINWIDTH="0" NORESIZE SCROLLING="NO">
+     </frame>
 
-<body>
- 
-   <!-- ....................... Livecams  ............. --> 
-<table border="0" width="730">
+     <frame src="navi.html" name="navi" NORESIZE SCROLLING="no" MARGINWIDTH="0" MARGINHEIGHT="0" FRAMEBORDER="0" framespacing="0">
+     </frame>
+   </FRAMESET>
 
 
+  <FRAMESET ROWS="87,1*,20" BORDER="1" FRAMEBORDER="1" FRAMESPACING="0">
+    <frame src="leer.html" name="titel" MARGINHEIGHT="0" MARGINWIDTH="0" NORESIZE SCROLLING="NO">
+    </frame>
 
-   <td style="width:120pt;padding:0cm 5.4pt 0cm 5.4pt" width="150" valign="top">
-     <p class="MsoNormal">
-       <b>Livecams </b>   <br>
+    <frame src="https://hs-bremen.github.io/#Anfang" name="main" MARGINWIDTH="0" MARGINHEIGHT="0" FRAMEBORDER="0" framespacing="0" NORESIZE SCROLLING="NO">     <FRAME SRC="https://hs-bremen.github.io" name="main" MARGINWIDTH="0" MARGINHEIGHT="0" FRAMEBORDER="0" framespacing="0" NORESIZE SCROLLING="NO">
+    </frame>
+  </FRAMESET>
 
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://herberts.meinekameras.de:10169/#view">
-     HERBERTs.Kameras  </a>  <br>
-   
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-      <a href="https://hotel-neptun.panomax.com/web/">
-      Hotel Neptun     </a>  <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://ipcamlive.com/player/player.php?alias=atlantic1&amp;autoplay=0&amp;mute=0">
-    Hotel Atlantic </a>  <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://player.livespotting.com/?alias=8zdo3e51&amp;ch=x0etac6e">
-     Strandhotel Hübner</a> <br>
-
-<span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://www.youtube.com/embed/SjI4tFZZOcA?si=ALm9JMAUkdViq5UA">
-     Küstenpanorama </a> <br>
-  
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://player.livespotting.com/lsplayer.html?alias=PS_qs01R">
-     Am Strom</a> <br>
- 
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://nordkapp.panomax.com/">
-     Nordkap</a> <br>
-  <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://hrx.panomax.com/ra">
-     MS Roald Amundsen</a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://hrx.panomax.com/fn">
-     MS Fridtjof Nansen</a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://zugspitze.panomax.com/">
-     Zugspitze</a> <br>
-     <br>
-  </p>
-  </td>
-
-  <!-- ..................... Webcams ...................... -->
- 
-<td style="width:120pt;padding:0cm 5.4pt 0cm 5.4pt" width="150" valign="top">
-     <p class="MsoNormal">
-       <b>Webcams </b>   <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
-     Playa de Santiago</a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://youtu.be/aAakCSjqKzo">
-    Playa de Santiago WiFi</a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://www.skylinewebcams.com/de/webcam/espana/canarias/santa-cruz-de-tenerife/la-gomera.html">
-     Jardin Tecina</a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://www.foto-webcam.eu/webcam/zugspitze">
-     Foto-webcam</a> <br>
- 
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-      <a href="https://www.rostock-port.de/livecam">
-      Rostock Port</a> <br>
-     <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://www.vulkane.net/blogmobil/">
-     Vulkane News</a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://www.skylinewebcams.com/de/webcam/italia/sicilia/catania/vulcano-etna-sud.html">
-     Etna</a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-     <a href="https://vedetta.org/vedetta/stromboli/index.php">
-    Stromboli</a> <br>
-  <br>
-  </p>
- </td>
-
- 
-
-</table>
-
-</body>
+</FRAMESET>
 </html>
