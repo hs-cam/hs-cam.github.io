@@ -21,7 +21,7 @@
 
            <td colspan="1" >
            <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
-             <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"
+             <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"
               width="100%" height="100%" >
             </a>
            </td>
@@ -143,13 +143,13 @@ Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf" title="Hochschuleh
            <p class="MsoNormal">
             <b> &nbsp Prof. Dr.-Ing. Herbert Schmatz </b>   <br/>
             &nbsp &nbsp Gr&uuml;ndung und Leitung: <br>
-            &nbsp &nbsp - Institut f&uuml;r Nachrichtentechnik <br/>
-            &nbsp &nbsp - Labor f&uuml;r Elektromagnetische Vertr&auml;glichkeit &nbsp
+            &nbsp &nbsp - Institut für Nachrichtentechnik <br/>
+            &nbsp &nbsp - Labor für Elektromagnetische Vertr&auml;glichkeit &nbsp
             <a href="https://webshare.hs-bremen.de/f/e384f198e7e34436a5de/" title="EMV_05.10.1995">
              (ARD 1994)  </a> <br/>
             &nbsp &nbsp &nbsp &nbsp <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
             herbert.schmatz@hs-bremen.de </a> <br/> <br/>
-            &nbsp &nbsp Institut f&uuml;r Nachrichtentechnik <br/>
+            &nbsp &nbsp Institut für Nachrichtentechnik <br/>
             &nbsp &nbsp Hochschule Bremen <br/>
             &nbsp &nbsp Neustadtswall 30  <br/>
             &nbsp &nbsp 28199 Bremen      <br/>
@@ -161,7 +161,7 @@ Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf" title="Hochschuleh
             <p class="MsoNormal"> <br>
               &nbsp <b> Drei Generationen Nachrichtentechnik </b> <br/>
               &nbsp (INT 1996) <br/>
-              &nbsp &nbsp Doz. Dr.-Ing. Schr&ouml;der (Rechts)<br/>
+              &nbsp &nbsp Doz. Dr.-Ing. Schröder (Rechts)<br/>
               &nbsp &nbsp Prof. Dr.-Ing. Rommel (Mitte) <br/>
               &nbsp &nbsp Prof. Dr.-Ing. Schmatz (Links)
             </p>
