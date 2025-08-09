@@ -43,7 +43,7 @@
          </tr>
 
          <tr>
-           <td colspan="2">
+            <td colspan="3">
              <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
               width="100%" height="5">
            </td>
