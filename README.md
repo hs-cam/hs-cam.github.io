@@ -29,7 +29,7 @@
 
         <tr>
            <td colspan="2" >
-             <p allign="center">
+             <p align="center">
              <b><span style="font-size:16.0pt">
                 INT - Institut für Nachrichtentechnik</span>
              </b>        <br>
