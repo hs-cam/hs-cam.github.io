@@ -62,7 +62,7 @@
               Luft- und Raumfahrt,</a> <br>
               &nbsp &nbsp <strong>-</strong> <a href="https://aulis.hs-bremen.de/login.php?target=crs_366541&amp;
               cmd=force_login&amp;lang=de"> Weiterbildung, </a> <br/>
-              &nbsp &nbsp <strong>-</strong> <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/
+              &nbsp &nbsp <strong>-</strong> <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakultäten/Fakultät_4/
 Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf" title="Hochschulehre">
               Hochschullehre. </a> <br/>
              </p>
