@@ -7,8 +7,8 @@
        <!-- --------------Kopf----------------- -->
        <tr>
            <td colspan="3">
-             <img id="Leiste" src="Leiste.png"
-              width="100%" height="5">
+             <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
+              width="100%" height="10">
            </td>
         </tr>
 
