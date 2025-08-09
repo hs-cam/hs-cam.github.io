@@ -1,6 +1,8 @@
 
 <html lang="de" >
-
+<head>
+</head>
+	
 <body>
 
     <table border="1" cellspacing="0" bgcolor=#CCFFFF >
