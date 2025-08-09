@@ -16,7 +16,7 @@
              <a href="https://www.hs-bremen.de/person/schmatz/">
              <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/4b6c78bfbc6c4e36ad3e/?dl=1"
                width="100%" height="100%">
-            </a>
+             </a>
            </td>
 
            <td colspan="1" >
