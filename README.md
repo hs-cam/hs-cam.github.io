@@ -3,7 +3,8 @@
 </head>
 	
 <body>
-    <table style="float:left" border="0" cellpadding="0" cellspacing="0" >
+    <table style="float:left" border="0" cellpadding="0" cellspacing="0" 
+            bgcolor=#CCFFFF>
        <tr>
            <td colspan="3">
              <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
