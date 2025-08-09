@@ -1,11 +1,5 @@
 
-<html lang="de"
-        data-color-mode="dark"
-        dark-theme="dark"
-        data-light-theme="light"
-        data-a11y-animated-images="system"
-        data-a11y-link-underlines="true"
-        data-turbo-loaded="">
+<html lang="de" >
 
 <body>
 
@@ -22,14 +16,14 @@
            <td colspan="1">
              <a href="https://www.hs-bremen.de/person/schmatz/">
              <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/4b6c78bfbc6c4e36ad3e/?dl=1"
-               width="100%" height="100%">
+               width="50%" height="50%">
             </a>
            </td>
 
            <td colspan="1" >
            <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
              <img id="HSB-Logo" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"
-              width="100%" height="100%" >
+              width="50%" height="50%" >
             </a>
            </td>
           </tr>
