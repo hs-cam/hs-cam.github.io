@@ -34,7 +34,7 @@
                 INT - Institut für Nachrichtentechnik</span>
              </b>        <br>
              <b><span style="font-size:12.0pt">
-                Gegr&uuml;ndet 1992 an der
+                Gegründet 1992 an der
                 <a href="https://www.hs-bremen.de" > Hochschule Bremen      </a>
                 </span>
              </b>        <br>
