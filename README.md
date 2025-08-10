@@ -13,14 +13,14 @@
         </tr>
 	   -->
         <tr>
-           <td colspan="1">
+           <td colspan="1"  valign="top" >
              <a href="https://www.hs-bremen.de/person/schmatz/">
              <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/4b6c78bfbc6c4e36ad3e/?dl=1"
                width="100%" height="100%">
              </a>
            </td>
 
-           <td colspan="1">
+           <td colspan="1"  valign="top" >
            <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
              <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"
               width="100%" height="100%" >
