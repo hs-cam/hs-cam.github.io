@@ -3,7 +3,7 @@
 </head>
 	
 <body>
-    <table border="0" >
+    <table border="" >
        <!--
 		<tr>
            <td colspan="3">
