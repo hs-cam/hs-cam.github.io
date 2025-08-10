@@ -195,9 +195,9 @@
       <p class="MsoNormal">
           <b>Vorlesungsskripte 1992-2018</b><br />
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;cmd=view&amp;ref_id=847770"> 
-            Grundlagen der Elektrotechnik 1 </a><br />
+            Grundlagen Elektrotechnik 1 </a><br />
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;cmd=view&amp;ref_id=847769"> 
-            Grundlagen der Elektrotechnik 2 </a><br />
+            Grundlagen Elektrotechnik 2 </a><br />
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;cmd=view&amp;ref_id=847775"> 
             Signale und Systeme </a><br />
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;cmd=view&amp;ref_id=847715"> 
