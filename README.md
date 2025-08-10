@@ -7,7 +7,6 @@
   </head>
 
  <body >
-<div style=backgroundColor: #CCFFFF> </div>
      <table border="0">
        <tr>
            <td colspan="2">
