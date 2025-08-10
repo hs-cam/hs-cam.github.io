@@ -6,11 +6,11 @@
    <meta name="H.S." content="gp">
   </head>
 
-  <body >
+  <body bgcolor="#CCFFFF">
 
 
 
-     <table border="0" bgcolor="#CCFFFF">
+     <table border="0">
        <tr>
            <td colspan="2">
              <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
