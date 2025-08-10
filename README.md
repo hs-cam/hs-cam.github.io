@@ -38,7 +38,7 @@
 </head>
 	
 <body>
-    <table border="" >
+    <table border="0" >
        <!--
 		<tr>
            <td colspan="3">
