@@ -6,8 +6,8 @@
    <meta name="H.S." content="gp">
   </head>
 
- <body bgcolor=#CCFFFF>
-
+ <body >
+<div style=backgroundColor: #CCFFFF> </div>
      <table border="0">
        <tr>
            <td colspan="2">
