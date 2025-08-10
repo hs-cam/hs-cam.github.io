@@ -6,9 +6,7 @@
    <meta name="H.S." content="gp">
   </head>
 
-  <body bgcolor="#CCFFFF">
-
-
+ <body bgcolor=#CCFFFF>
 
      <table border="0">
        <tr>
