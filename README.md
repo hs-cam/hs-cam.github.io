@@ -56,7 +56,7 @@
 -->
         <tr>
            <td colspan="3">
-	     <p align="center">  
+	     <p align="center" style="background-color:#CCFFFF;">  
 	     <b><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">
                 INT - Institut für Nachrichtentechnik  / 
                   <a href="https://www.hs-bremen.de" >Hochschule Bremen </a>  
