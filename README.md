@@ -42,7 +42,7 @@
 
   <body>
 
-    <table border="2" cellspacing="0" bgcolor=#CCFFFF >   
+    <table border="2" cellspacing="0">   
        <!-- --------------Kopf----------------- -->
        <tr>
            <td colspan="3">
