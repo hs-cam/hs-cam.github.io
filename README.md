@@ -42,12 +42,12 @@
 
   <body>
 
-    <table border="2" cellspacing="0">   
+    <table border="0" cellspacing="0">   
        <!-- --------------Kopf----------------- -->
        <tr>
            <td colspan="3">
              <img id="Leiste" src="Leiste.png"
-              width="100%" height="5">
+              width="100%" height="0">
            </td>
         </tr>
 
