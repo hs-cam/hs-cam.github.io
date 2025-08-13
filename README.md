@@ -71,7 +71,7 @@
            <td colspan="2">
              <p align = "center">
              <b><span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">
-                INT - Institut f&uuml;r Nachrichtentechnik an der 
+                Institut für Nachrichtentechnik an der 
                   <a href="https://www.hs-bremen.de" >Hochschule Bremen </a>
              </span>
              </b>        <br>
@@ -83,7 +83,7 @@
          <tr>
            <td colspan="2">
              <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="100%" height="5">
+              width="100%" height="0">
            </td>
         </tr>
 
