@@ -127,7 +127,7 @@
           </td>
 
 
-          <td colspan="1" valign="top" bgcolor=#FFFFFF>
+          <td colspan="1" valign="top">
 
            <p><img style="float: left;" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1"></p>
            <a href="https://www.hs-bremen.de/person/schmatz/">
