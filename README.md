@@ -132,7 +132,7 @@
             <b> Prof. Dr.-Ing. Herbert Schmatz </b>   <br/>
               - Gründung und Leitung: <br>
                 - Institut für Nachrichtentechnik <br/>
-                - Labor für Elektromagnetische Verträglichkeit &nbsp <br/>
+                - Labor für Elektromagnetische Verträglichkeit <br/>
             <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden"> herbert.schmatz@hs-bremen.de </a> <br/> <br/>
                  Institut für Nachrichtentechnik <br/>
                  Hochschule Bremen <br/>
@@ -143,7 +143,7 @@
            
 
             <p><img style="float: left"   src="https://webshare.hs-bremen.de/f/a202256070c6462699f4/?dl=1" /></p>
-            <p class="MsoNormal"> <br>
+            <p class="MsoNormal"> 
                     <b> Drei Generationen Nachrichtentechnik </b> <br/>
                     (INT 1996) <br/>
                     Doz. Dr.-Ing. Schröder (Rechts)<br/>
