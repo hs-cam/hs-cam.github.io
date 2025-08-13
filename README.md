@@ -94,28 +94,28 @@
 
      <div id="wrapper">
     	<ul id="menu">
-          <li><a href="#" >&nbsp Home</a></li>
-          <li><a href="#" >&nbsp &rArr; FuE</a>
+          <li><a href="#" > Home</a></li>
+          <li><a href="#" > &rArr; FuE</a>
             <ul class="fly">
                 <li><a href="https://webshare.hs-bremen.de/f/e384f198e7e34436a5de/">                
-				<li><a href="https://webshare.hs-bremen.de/f/8eb18e769b024db69716/">  3D-Fernsehen</a></li>
-                <li><a href="https://webshare.hs-bremen.de/f/f3e00633d06445618dcd/">   3D-Video</a></li>
-                <li><a href="https://webshare.hs-bremen.de/f/430477be65794678884a/">   Luft- und Raumfahrt</a></li>
+				<li><a href="https://webshare.hs-bremen.de/f/8eb18e769b024db69716/">  - 3D-Fernsehen</a></li>
+                <li><a href="https://webshare.hs-bremen.de/f/f3e00633d06445618dcd/">  - 3D-Video</a></li>
+                <li><a href="https://webshare.hs-bremen.de/f/430477be65794678884a/">  - Luft- und Raumfahrt</a></li>
                 <li><a href="#">...</a></li>
             </ul>
           </li>
           <li><a href="#" >&nbsp &rArr; Hochschullehre</a>
             <ul class="fly">
-                <li><a href="#">   Elektrotechnik 1</a></li>
-                <li><a href="#">   Elektrotechnik 2</a></li>
-                <li><a href="#">   Informationstechnik</a></li>
-                <li><a href="#">   Signale und Systeme</a></li>
-                <li><a href="#">   Informationstechnik</a></li>
+                <li><a href="#">   - Elektrotechnik 1</a></li>
+                <li><a href="#">   - Elektrotechnik 2</a></li>
+                <li><a href="#">   - Informationstechnik</a></li>
+                <li><a href="#">   - Signale und Systeme</a></li>
+                <li><a href="#">   - Informationstechnik</a></li>
             </ul>
           </li>
 
-          <li><a href="#" >&nbsp intern</a></li>
-          <li><a href="#" >&nbsp privat</a></li>
+          <li><a href="#" > - intern</a></li>
+          <li><a href="#" > - privat</a></li>
           <li><a href="#" ></a></li>
         </ul>
       </div>
@@ -129,7 +129,7 @@
            <p><img style="float: left;" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1"></p>
            <a href="https://www.hs-bremen.de/person/schmatz/">  </a>
            <p class="MsoNormal">
-            <b> &nbsp Prof. Dr.-Ing. Herbert Schmatz </b>   <br/>
+            <b> Prof. Dr.-Ing. Herbert Schmatz </b>   <br/>
               - Gründung und Leitung: <br>
                 - Institut für Nachrichtentechnik <br/>
                 - Labor für Elektromagnetische Verträglichkeit &nbsp <br/>
