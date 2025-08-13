@@ -97,23 +97,20 @@
           <li><a href="#" >&nbsp Home</a></li>
           <li><a href="#" >&nbsp &rArr; FuE</a>
             <ul class="fly">
-                <li><a href="https://webshare.hs-bremen.de/f/e384f198e7e34436a5de/">
-&nbsp &nbsp EMV</a></li>
-                <li><a href="https://webshare.hs-bremen.de/f/8eb18e769b024db69716/">
-&nbsp &nbsp 3D-Fernsehen</a></li>
-                <li><a href="https://webshare.hs-bremen.de/f/f3e00633d06445618dcd/">
-&nbsp &nbsp 3D-Video</a></li>
-                <li><a href="https://webshare.hs-bremen.de/f/430477be65794678884a/">&nbsp &nbsp Luft- und Raumfahrt</a></li>
+                <li><a href="https://webshare.hs-bremen.de/f/e384f198e7e34436a5de/">                
+				<li><a href="https://webshare.hs-bremen.de/f/8eb18e769b024db69716/">  3D-Fernsehen</a></li>
+                <li><a href="https://webshare.hs-bremen.de/f/f3e00633d06445618dcd/">   3D-Video</a></li>
+                <li><a href="https://webshare.hs-bremen.de/f/430477be65794678884a/">   Luft- und Raumfahrt</a></li>
                 <li><a href="#">...</a></li>
             </ul>
           </li>
           <li><a href="#" >&nbsp &rArr; Hochschullehre</a>
             <ul class="fly">
-                <li><a href="#">&nbsp &nbsp Elektrotechnik 1</a></li>
-                <li><a href="#">&nbsp &nbsp Elektrotechnik 2</a></li>
-                <li><a href="#">&nbsp &nbsp Informationstechnik</a></li>
-                <li><a href="#">&nbsp &nbsp Signale und Systeme</a></li>
-                <li><a href="#">&nbsp &nbsp Informationstechnik</a></li>
+                <li><a href="#">   Elektrotechnik 1</a></li>
+                <li><a href="#">   Elektrotechnik 2</a></li>
+                <li><a href="#">   Informationstechnik</a></li>
+                <li><a href="#">   Signale und Systeme</a></li>
+                <li><a href="#">   Informationstechnik</a></li>
             </ul>
           </li>
 
@@ -130,30 +127,28 @@
           <td colspan="1" valign="top">
 
            <p><img style="float: left;" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1"></p>
-           <a href="https://www.hs-bremen.de/person/schmatz/">
-           </a>
+           <a href="https://www.hs-bremen.de/person/schmatz/">  </a>
            <p class="MsoNormal">
             <b> &nbsp Prof. Dr.-Ing. Herbert Schmatz </b>   <br/>
-            &nbsp &nbsp Gründung und Leitung: <br>
-            &nbsp &nbsp - Institut für Nachrichtentechnik <br/>
-            &nbsp &nbsp - Labor für Elektromagnetische Verträglichkeit &nbsp <br/>
-            &nbsp &nbsp &nbsp &nbsp <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
-            herbert.schmatz@hs-bremen.de </a> <br/> <br/>
-            &nbsp &nbsp Institut für Nachrichtentechnik <br/>
-            &nbsp &nbsp Hochschule Bremen <br/>
-            &nbsp &nbsp Neustadtswall 30  <br/>
-            &nbsp &nbsp 28199 Bremen      <br/> 
+              - Gründung und Leitung: <br>
+                - Institut für Nachrichtentechnik <br/>
+                - Labor für Elektromagnetische Verträglichkeit &nbsp <br/>
+            <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden"> herbert.schmatz@hs-bremen.de </a> <br/> <br/>
+                 Institut für Nachrichtentechnik <br/>
+                 Hochschule Bremen <br/>
+                 Neustadtswall 30  <br/>
+                 28199 Bremen      <br/> 
            </p>
          
            
 
             <p><img style="float: left"   src="https://webshare.hs-bremen.de/f/a202256070c6462699f4/?dl=1" /></p>
             <p class="MsoNormal"> <br>
-              &nbsp <b> Drei Generationen Nachrichtentechnik </b> <br/>
-              &nbsp (INT 1996) <br/>
-              &nbsp &nbsp Doz. Dr.-Ing. Schröder (Rechts)<br/>
-              &nbsp &nbsp Prof. Dr.-Ing. Rommel (Mitte) <br/>
-              &nbsp &nbsp Prof. Dr.-Ing. Schmatz (Links) 
+                    <b> Drei Generationen Nachrichtentechnik </b> <br/>
+                    (INT 1996) <br/>
+                    Doz. Dr.-Ing. Schröder (Rechts)<br/>
+                    Prof. Dr.-Ing. Rommel (Mitte) <br/>
+                    Prof. Dr.-Ing. Schmatz (Links) 
             </p>
            </td>
 
