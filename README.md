@@ -38,6 +38,11 @@
 	#menu li ul:hover {padding:0 0 10px 0;}
 	#menu li ul.fly:hover {height:150px;}
     </style>  
+	 <style>
+      body {
+        background-image: url="https://webshare.hs-bremen.de/f/61c5bf9e267f46cfb044/?dl=1" ;
+      }
+    </style>
   </head>
 
   <body>
