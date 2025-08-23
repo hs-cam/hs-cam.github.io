@@ -20,9 +20,9 @@
               width="1015px" height="3px"></a>
 	</div>
 
-	<div style="position:absolute; top: 780px; margin-left:0px;">
+	<div style="position:absolute; top: 770px; margin-left:0px;">
   	  <a> <img id="Leiste-unten" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1005px" height="3px"></a>
+              width="1015px" height="3px"></a>
 	</div>
 
 	<div style="position:absolute; top: 3px; margin-left0px;">
@@ -76,9 +76,9 @@
          
 <!-- ------------------- Navi ------------------------ -->
  <span id="Anfang"></span>
-	<div style="position:absolute; top: 230px; margin-left:320px;">
+	<div style="position:absolute; top: 235px; margin-left:320px;">
   	  <a> <img id="Leiste-vertikal-mitte" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
-              width="3" height="520"></a>
+              width="3" height="540"></a>
 	</div>
 
   
