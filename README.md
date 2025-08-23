@@ -39,7 +39,7 @@
 	<div>
   	  <a href="https://www.hs-bremen.de/person/schmatz/"> 
     	   <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1" 
-     	     style="position:absolute; top: 6px; margin-left:0px;"
+     	     style="position:absolute; top: 6px; margin-left:3px;"
      	     width="340px" height="196px"> 
   	  </a>
 	</div>
@@ -83,7 +83,7 @@
 
   
 <!-- ------------- ARBEITSSCHWERPUNKTE ---------------- -->
-  <div id="wrapper" style="position:absolute; top: 245px; margin-left:20px;">
+  <div id="wrapper" style="position:absolute; top: 240px; margin-left:20px;">
       <p class="MsoNormal">
       <b>Arbeitsschwerpunkte </b> <br />
       <strong>-</strong> Anwendungsbezogene FuE, <br />
@@ -156,13 +156,13 @@
 <div>
      <a href="mailto:herbert.schmatz@hs-bremen.de">
       <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1" 
-          style="position:absolute; top: 255px; margin-left:340px;"
+          style="position:absolute; top: 240px; margin-left:340px;"
           width="144px" height="200px" border="0">
      </a>
 </div>
 
 
-<div style="position:absolute; top: 460px; margin-left:340px;">
+<div style="position:absolute; top: 450px; margin-left:340px;">
   <a> 
      <p class="MsoNormal"> 
         <strong>Prof. Dr.-Ing. Herbert Schmatz   <br /> </strong>
@@ -175,7 +175,7 @@
   </a>
 </div>
 
-<div style="position:absolute; top: 250px; margin-left:600px;">
+<div style="position:absolute; top: 240px; margin-left:600px;">
   <a> 
      <p class="MsoNormal"> 
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
@@ -217,7 +217,7 @@
   </a>
 </div>
 
-<div style="position:absolute; top: 580px; margin-left:323px;">
+<div style="position:absolute; top: 575px; margin-left:323px;">
   <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
               width="686px" height="1px"></a>
 </div>
