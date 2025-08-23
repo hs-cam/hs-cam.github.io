@@ -100,9 +100,8 @@
         Institut für Nachrichtentechnik (intern)  </a> <br />
 
         <strong>-</strong>
-        <a href="#EMV" title="EMV_05.10.1995">
-        <!-- https://webshare.hs-bremen.de/f/e384f198e7e34436a5de/ -->
-          EMV-Labor ARD 5.10.1995</a> <br/>
+    <a href="#EMV" title="EMV_05.10.1995">
+    EMV-Labor ARD 5.10.1995 </a> <br/>
 
         <strong>-</strong>
 	<a href="#3D-TV" title="3D-Fernsehtechnik">
@@ -110,7 +109,7 @@
 	
         <strong>-</strong>
 	<a href="#3D-Video" title="3D-Videotechnik">
-	3D-Videotechnik, SAT1 8.11.2001  </a><br />
+	3D-Videotechnik, SAT1 8.11.2001 </a> <br />
 
         <strong>-</strong>
 	<a href="#DLR"" title="Luft- und Raumfahrt">
