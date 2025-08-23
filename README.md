@@ -50,11 +50,6 @@
          
 <!-- ------------------- Navi ------------------------ -->
  <span id="Anfang"></span>
-	<div style="position:absolute; top: 250px; margin-left:320px;">
-  	  <a> <img id="Leiste-vertikal-mitte" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
-              width="3" height="516"></a>
-	</div>
-
   
 <!-- ------------- ARBEITSSCHWERPUNKTE ---------------- -->
   <div id="wrapper" style="position:absolute; top: 245; margin-left:20;">
