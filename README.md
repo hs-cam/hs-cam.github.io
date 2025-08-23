@@ -1,19 +1,45 @@
 <html lang="de-DE">
   <head>
    <meta charset="utf-8">
+   <meta name="description" content="">
+   <meta name="keywords" content="HTML, Metatags">
+   <meta name="H.S." content="gp">
   </head>
 
+<body bgcolor=#CCFFFF>
 
         <div style="position:absolute; top: 0px; margin-left:0px;">
   	  <a> <img id="Home" width="0" height="0"></a>
 	</div>
 
 
+<!-- --------------- Rahmen ---------------->
+  <a> <img id="Home" width="0" height="0"></a>
+	<div style="position:absolute; top: 3px; margin-left:7px;">
+  	  <a> <img id="Leiste-oben" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
+              width="1015" height="3"></a>
+	</div>
+
+	<div style="position:absolute; top: 766px; margin-left:7px;">
+  	  <a> <img id="Leiste-unten" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
+              width="1015" height="3"></a>
+	</div>
+
+	<div style="position:absolute; top: 3px; margin-left:7px;">
+  	  <a> <img id="Leiste-links" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
+              width="3" height="763"></a>
+	</div>
+
+	<div style="position:absolute; top: 3px; margin-left:1019px;">
+ 	  <a> <img id="Leiste-rechts" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
+              width="3" height="763"></a>
+	</div>
+
 <!-- --------------- Head --------------- -->
 	<div>
   	  <a href="https://www.hs-bremen.de/person/schmatz/"> 
     	   <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1" 
-     	     style="position:absolute; top: 6px; margin-left:5px;"
+     	     style="position:absolute; top: 6px; margin-left:10px;"
      	     width="340" height="196"> 
   	  </a>
 	</div>
@@ -21,9 +47,14 @@
 	<div>
   	  <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
     	   <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"  
-     	     style="position:absolute; top: 6px; margin-left:344px;"
+     	     style="position:absolute; top: 6px; margin-left:349px;"
      	     width="670" height="196">
   	  </a>
+	</div>
+
+	<div style="position:absolute; top: 202px; margin-left:10px;">
+  	  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
+              width="1010" height="5"></a>
 	</div>
 
 	<p style="position:absolute; top: 197px; margin-left:200px;  width:680; height=20;">
@@ -37,6 +68,12 @@
      	</b>     
 	</p>
 
+
+	<div style="position:absolute; top: 245px; margin-left:10px;">
+  	  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
+              width="1010" height="5"></a>
+	</div>
+         
 <!-- ------------------- Navi ------------------------ -->
  <span id="Anfang"></span>
 	<div style="position:absolute; top: 250px; margin-left:320px;">
@@ -46,7 +83,7 @@
 
   
 <!-- ------------- ARBEITSSCHWERPUNKTE ---------------- -->
-  <div id="wrapper" style="position:absolute; top: 245; margin-left:20;">
+  <div id="wrapper" style="position:absolute; top: 245px; margin-left:20px;">
       <p class="MsoNormal">
       <b>Arbeitsschwerpunkte </b> <br />
       <strong>-</strong> Anwendungsbezogene FuE, <br />
@@ -114,18 +151,19 @@
       <strong>-</strong> <a href="#" >...</a>
 </div>
 
+
 <!-- Main -->
 
 <div>
      <a href="mailto:herbert.schmatz@hs-bremen.de">
       <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1" 
-          style="position:absolute; top: 265; margin-left:340;"
-          width="144" height="200" border="0">
+          style="position:absolute; top: 265px; margin-left:340px;"
+          width="144" height="200"border="0">
      </a>
 </div>
 
 
-<div style="position:absolute; top: 460; margin-left:340;">
+<div style="position:absolute; top: 460px; margin-left:340px;">
   <a> 
      <p class="MsoNormal"> 
         <strong>Prof. Dr.-Ing. Herbert Schmatz   <br /> </strong>
@@ -138,7 +176,7 @@
   </a>
 </div>
 
-<div style="position:absolute; top: 250; margin-left:600;">
+<div style="position:absolute; top: 250px; margin-left:600px;">
   <a> 
      <p class="MsoNormal"> 
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
@@ -179,16 +217,22 @@
   </a>
 </div>
 
+<div style="position:absolute; top: 580px; margin-left:323px;">
+  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
+              width="696" height="1"></a>
+</div>
+
+
 
 <div>
     <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3">
      <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/a202256070c6462699f4/?dl=1" 
-         style="position:absolute; top: 586; margin-left:340;"
+         style="position:absolute; top: 586px; margin-left:340px;"
           width="248" height="173" border="0" />
     </a>
 </div>
 
-<div style="position:absolute; top: 590; margin-left:610;">
+<div style="position:absolute; top: 590px; margin-left:610px;">
       <p class="MsoNormal">
         Drei Generationen Nachrichtentechnik <br /> (INT 1996) <br />
         Doz. Dr.-Ing. Schröder (Rechts)<br />
@@ -201,7 +245,7 @@
 <!-- ................ Videos ................................. -->
 
 <!-- .................EMV-Labor............................... -->
-<div style="position:absolute; top: 2000; margin-left:0;">
+<div style="position:absolute; top: 2000px; margin-left:0px;">
     <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400"/> <br>
     <form id="EMV" action="#Home" ><input type="submit" value="Home" /></form>
     <span> <h2>Labor für EMV, ARD 1994 </h2> </span>
