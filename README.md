@@ -30,7 +30,7 @@
               width="3px" height="763px"></a>
 	</div>
 
-	<div style="position:absolute; top: 0px; margin-left:1015px;">
+	<div style="position:absolute; top: 0px; margin-left:1012px;">
  	  <a> <img id="Leiste-rechts" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
               width="3px" height="763px"></a>
 	</div>
@@ -39,7 +39,7 @@
 	<div>
   	  <a href="https://www.hs-bremen.de/person/schmatz/"> 
     	   <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1" 
-     	     style="position:absolute; top: 6px; margin-left:3px;"
+     	     style="position:absolute; top: 6px; margin-left:0px;"
      	     width="340px" height="196px"> 
   	  </a>
 	</div>
@@ -52,7 +52,7 @@
   	  </a>
 	</div>
 
-	<div style="position:absolute; top: 187px; margin-left:10px;">
+	<div style="position:absolute; top: 187px; margin-left:3px;">
   	  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
               width="1010px" height="5px"></a>
 	</div>
@@ -69,7 +69,7 @@
 	</p>
 
 
-	<div style="position:absolute; top: 215px; margin-left:10px;">
+	<div style="position:absolute; top: 215px; margin-left:3px;">
   	  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
               width="1010px" height="5px"></a>
 	</div>
