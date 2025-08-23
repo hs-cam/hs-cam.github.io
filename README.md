@@ -1,24 +1,19 @@
 <html lang="de-DE">
   <head>
    <meta charset="utf-8">
-   <meta name="description" content="">
-   <meta name="keywords" content="HTML, Metatags">
-   <meta name="H.S." content="gp">
   </head>
 
-<!-- --------------- Rahmen ---------------->
-    <a> <img id="Home" width="0" height="0"></a>
-	
 
-	
+        <div style="position:absolute; top: 0px; margin-left:0px;">
+  	  <a> <img id="Home" width="0" height="0"></a>
+	</div>
 
-	
 
 <!-- --------------- Head --------------- -->
 	<div>
   	  <a href="https://www.hs-bremen.de/person/schmatz/"> 
     	   <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1" 
-     	     style="position:absolute; top: 6; margin-left:0;"
+     	     style="position:absolute; top: 6; margin-left:5;"
      	     width="340" height="196"> 
   	  </a>
 	</div>
@@ -26,12 +21,12 @@
 	<div>
   	  <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
     	   <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"  
-     	     style="position:absolute; top: 6; margin-left:339;"
+     	     style="position:absolute; top: 6; margin-left:344;"
      	     width="670" height="196">
   	  </a>
 	</div>
 
-		<p style="position:absolute; top: 197; margin-left:200;  width:680; height=20;">
+	<p style="position:absolute; top: 197px; margin-left:200px;  width:680; height=20;">
     	<b>
       	<span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">
             INT - Institut für Nachrichtentechnik / 
@@ -42,14 +37,13 @@
      	</b>     
 	</p>
 
-
-	<div style="position:absolute; top: 245; margin-left:10;">
-  	  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1010" height="5"></a>
-	</div>
-         
 <!-- ------------------- Navi ------------------------ -->
  <span id="Anfang"></span>
+	<div style="position:absolute; top: 250px; margin-left:320px;">
+  	  <a> <img id="Leiste-vertikal-mitte" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
+              width="3" height="516"></a>
+	</div>
+
   
 <!-- ------------- ARBEITSSCHWERPUNKTE ---------------- -->
   <div id="wrapper" style="position:absolute; top: 245; margin-left:20;">
@@ -120,7 +114,6 @@
       <strong>-</strong> <a href="#" >...</a>
 </div>
 
-
 <!-- Main -->
 
 <div>
@@ -179,7 +172,7 @@
                      cmd=view&amp;ref_id=847697"> 
             Introduction to Modern Telecommunication </a>  (Malaysia)<br />
   	    <strong>-</strong><a href="https://webshare.hs-bremen.de/f/b00b6fb4c0cd4b1d88c3/?dl=1;
-                     style="position:absolute; top: 580; margin-left:323;"> 
+                     style="position:absolute; top: 580px; margin-left:323px;"> 
             Tutorials </a><br />
            
       </p>  
@@ -240,8 +233,8 @@
     <form id="3D-Video" action="#Home" ><input type="submit" value="Home" /></form>
     <span> <h2>3D-Videotechnik, SAT1 8.11.2001 </h2> </span>
     <a> <video controls="controls" >
-  	<source src="https://webshare.hs-bremen.de/f/f3e00633d06445618dcd/?dl=1" target="_blank" type="video/mp4" />
-  	Your browser does not support the video tag.	</video>
+  	   <source src="https://webshare.hs-bremen.de/f/f3e00633d06445618dcd/?dl=1" target="_blank" type="video/mp4" />
+  	   Your browser does not support the video tag.	</video>
     </a> 
    
     <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
