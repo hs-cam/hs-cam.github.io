@@ -1,20 +1,7 @@
 <html lang="de-DE">
   <head>
    <meta charset="utf-8">
-   <meta name="description" content="">
-   <meta name="keywords" content="HTML, Metatags">
-   <meta name="H.S." content="gp">
   </head>
-
-<body bgcolor=#CCFFFF>
-
-        <div style="position:absolute; top: 0px; margin-left:0px;">
-  	  <a> <img id="Home" width="0px" height="0px"></a>
-	</div>
-
-
-<
-
 <!-- --------------- Head --------------- -->
 	<div>
   	  <a href="https://www.hs-bremen.de/person/schmatz/"> 
