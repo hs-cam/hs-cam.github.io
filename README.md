@@ -47,7 +47,7 @@
               width="1010px" height="5px"></a>
 	</div>
 
-	<p style="position:absolute; top: 202px; margin-left:200px;  width:680; height=20;">
+	<p style="position:absolute; top: 202px; margin-left:200px;  ">
     	<b>
       	<span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">
             INT - Institut für Nachrichtentechnik / 
