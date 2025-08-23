@@ -20,7 +20,7 @@
               width="3px" height="783px"></a>
 	</div>
 
-	<div style="position:absolute; top: 3px; margin-left:1012px;">
+	<div style="position:absolute; top: 3px; margin-left:1000px;">
  	  <a> <img id="Leiste-rechts" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
               width="3px" height="783px"></a>
 	</div>
@@ -47,7 +47,7 @@
               width="1010px" height="5px"></a>
 	</div>
 
-	<p style="position:absolute; top: 202px; margin-left:200px;  ">
+	<p style="position:absolute; top: 202px; margin-left:100px;  ">
     	<b>
       	<span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">
             INT - Institut für Nachrichtentechnik / 
