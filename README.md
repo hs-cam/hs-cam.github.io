@@ -14,15 +14,15 @@
 
 
 <!-- --------------- Rahmen ---------------->
-  <a> <img id="Home" width="0" height="0"></a>
+  <a> <img id="Home" width="0px" height="0px"></a>
 	<div style="position:absolute; top: 0px; margin-left:0px;">
   	  <a> <img id="Leiste-oben" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1015px" height="3px"></a>
+              width="1020px" height="3px"></a>
 	</div>
 
 	<div style="position:absolute; top: 767px; margin-left:0px;">
   	  <a> <img id="Leiste-unten" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1015px" height="3px"></a>
+              width="1020px" height="3px"></a>
 	</div>
 
 	<div style="position:absolute; top: 3px; margin-left0px;">
@@ -52,7 +52,7 @@
   	  </a>
 	</div>
 
-	<div style="position:absolute; top: 195px; margin-left:10px;">
+	<div style="position:absolute; top: 190px; margin-left:10px;">
   	  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
               width="1010px" height="5px"></a>
 	</div>
@@ -69,7 +69,7 @@
 	</p>
 
 
-	<div style="position:absolute; top: 220px; margin-left:10px;">
+	<div style="position:absolute; top: 200px; margin-left:10px;">
   	  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
               width="1010px" height="5px"></a>
 	</div>
