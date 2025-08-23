@@ -15,24 +15,24 @@
 
 <!-- --------------- Rahmen ---------------->
   <a> <img id="Home" width="0" height="0"></a>
-	<div style="position:absolute; top: 3px; margin-left:7px;">
+	<div style="position:absolute; top: 0px; margin-left:0px;">
   	  <a> <img id="Leiste-oben" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1015" height="3"></a>
+              width="1015px" height="3px"></a>
 	</div>
 
-	<div style="position:absolute; top: 766px; margin-left:7px;">
+	<div style="position:absolute; top: 767px; margin-left:0px;">
   	  <a> <img id="Leiste-unten" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1015" height="3"></a>
+              width="101px5" height="3px"></a>
 	</div>
 
-	<div style="position:absolute; top: 3px; margin-left:7px;">
+	<div style="position:absolute; top: 3px; margin-left0px;">
   	  <a> <img id="Leiste-links" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
-              width="3" height="763"></a>
+              width="3px" height="763px"></a>
 	</div>
 
-	<div style="position:absolute; top: 3px; margin-left:1019px;">
+	<div style="position:absolute; top: 0px; margin-left:1020px;">
  	  <a> <img id="Leiste-rechts" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
-              width="3" height="763"></a>
+              width="3px" height="763px"></a>
 	</div>
 
 <!-- --------------- Head --------------- -->
