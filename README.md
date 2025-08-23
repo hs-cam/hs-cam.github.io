@@ -5,7 +5,7 @@
 
 <div    style="position:absolute; top: 6px; margin-left: 3px;>
   	  <a href="https://www.hs-bremen.de/person/schmatz/"> 
-    	   <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1" width="300" height="196";>
+    	   <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1" width="300"; height="196";>
   	  </a>
 </div>
 
