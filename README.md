@@ -9,7 +9,7 @@
 <body bgcolor=#CCFFFF>
 
         <div style="position:absolute; top: 0px; margin-left:0px;">
-  	  <a> <img id="Home" width="0" height="0"></a>
+  	  <a> <img id="Home" width="0px" height="0px"></a>
 	</div>
 
 
