@@ -6,14 +6,8 @@
    <meta name="H.S." content="gp">
   </head>
 
-<!-- <body bgcolor=#CCFFFF> -->
-
-        <div style="position:absolute; top: 0px; margin-left:0px;">
-  	  <a> <img id="Home" width="0" height="0"></a>
-	</div>
-
-
 <!-- --------------- Rahmen ---------------->
+    <a> <img id="Home" width="0" height="0"></a>
 	<div style="position:absolute; top: 3px; margin-left:7px;">
   	  <a> <img id="Leiste-oben" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
               width="1015" height="3"></a>
