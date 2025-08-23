@@ -6,7 +6,7 @@
    <meta name="H.S." content="gp">
   </head>
 
-<body bgcolor=#CCFFFF>
+<!-- <body bgcolor=#CCFFFF> -->
 
         <div style="position:absolute; top: 0px; margin-left:0px;">
   	  <a> <img id="Home" width="0" height="0"></a>
