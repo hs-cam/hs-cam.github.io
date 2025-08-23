@@ -18,7 +18,7 @@
 	<div>
   	  <a href="https://www.hs-bremen.de/person/schmatz/"> 
     	   <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1" 
-     	     style="position:absolute; top: 6px; margin-left:0px;"
+     	     style="position:absolute; top: 6; margin-left:0;"
      	     width="340" height="196"> 
   	  </a>
 	</div>
@@ -26,12 +26,12 @@
 	<div>
   	  <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
     	   <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"  
-     	     style="position:absolute; top: 6px; margin-left:359px;"
+     	     style="position:absolute; top: 6; margin-left:339;"
      	     width="670" height="196">
   	  </a>
 	</div>
 
-		<p style="position:absolute; top: 197px; margin-left:200px;  width:680; height=20;">
+		<p style="position:absolute; top: 197; margin-left:200;  width:680; height=20;">
     	<b>
       	<span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">
             INT - Institut für Nachrichtentechnik / 
@@ -43,7 +43,7 @@
 	</p>
 
 
-	<div style="position:absolute; top: 245px; margin-left:10px;">
+	<div style="position:absolute; top: 245; margin-left:10;">
   	  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
               width="1010" height="5"></a>
 	</div>
@@ -127,7 +127,7 @@
      <a href="mailto:herbert.schmatz@hs-bremen.de">
       <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1" 
           style="position:absolute; top: 265; margin-left:340;"
-          width="144" height="200"border="0">
+          width="144" height="200" border="0">
      </a>
 </div>
 
@@ -179,7 +179,7 @@
                      cmd=view&amp;ref_id=847697"> 
             Introduction to Modern Telecommunication </a>  (Malaysia)<br />
   	    <strong>-</strong><a href="https://webshare.hs-bremen.de/f/b00b6fb4c0cd4b1d88c3/?dl=1;
-                     style="position:absolute; top: 580px; margin-left:323px;"> 
+                     style="position:absolute; top: 580; margin-left:323;"> 
             Tutorials </a><br />
            
       </p>  
