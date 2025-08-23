@@ -22,7 +22,7 @@
 
 	<div style="position:absolute; top: 767px; margin-left:0px;">
   	  <a> <img id="Leiste-unten" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="101px5" height="3px"></a>
+              width="1015px" height="3px"></a>
 	</div>
 
 	<div style="position:absolute; top: 3px; margin-left0px;">
@@ -39,22 +39,22 @@
 	<div>
   	  <a href="https://www.hs-bremen.de/person/schmatz/"> 
     	   <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1" 
-     	     style="position:absolute; top: 6px; margin-left:10px;"
-     	     width="340" height="196"> 
+     	     style="position:absolute; top: 6px; margin-left:3px;"
+     	     width="340px" height="196px"> 
   	  </a>
 	</div>
 
 	<div>
   	  <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
     	   <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"  
-     	     style="position:absolute; top: 6px; margin-left:349px;"
-     	     width="670" height="196">
+     	     style="position:absolute; top: 6px; margin-left:342px;"
+     	     width="670px" height="196px">
   	  </a>
 	</div>
 
-	<div style="position:absolute; top: 202px; margin-left:10px;">
+	<div style="position:absolute; top: 195px; margin-left:10px;">
   	  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1010" height="5"></a>
+              width="1010px" height="5px"></a>
 	</div>
 
 	<p style="position:absolute; top: 197px; margin-left:200px;  width:680; height=20;">
@@ -69,9 +69,9 @@
 	</p>
 
 
-	<div style="position:absolute; top: 245px; margin-left:10px;">
+	<div style="position:absolute; top: 220px; margin-left:10px;">
   	  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1010" height="5"></a>
+              width="1010px" height="5px"></a>
 	</div>
          
 <!-- ------------------- Navi ------------------------ -->
