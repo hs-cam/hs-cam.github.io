@@ -27,12 +27,12 @@
 
 	<div style="position:absolute; top: 3px; margin-left0px;">
   	  <a> <img id="Leiste-links" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
-              width="3px" height="780px"></a>
+              width="3px" height="783px"></a>
 	</div>
 
 	<div style="position:absolute; top: 3px; margin-left:1012px;">
  	  <a> <img id="Leiste-rechts" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
-              width="3px" height="780px"></a>
+              width="3px" height="783px"></a>
 	</div>
 
 <!-- --------------- Head --------------- -->
@@ -78,7 +78,7 @@
  <span id="Anfang"></span>
 	<div style="position:absolute; top: 235px; margin-left:320px;">
   	  <a> <img id="Leiste-vertikal-mitte" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
-              width="3" height="540"></a>
+              width="3" height="550"></a>
 	</div>
 
   
@@ -215,7 +215,7 @@
 
 <div style="position:absolute; top: 570px; margin-left:323px;">
   <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="683px" height="1px"></a>
+              width="678px" height="1px"></a>
 </div>
 
 
