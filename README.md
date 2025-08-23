@@ -208,9 +208,10 @@
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
                      cmd=view&amp;ref_id=847697"> 
             Introduction to Modern Telecommunication </a>  (Malaysia)<br />
-  	    <strong>-</strong><a href="https://webshare.hs-bremen.de/f/b00b6fb4c0cd4b1d88c3/?dl=1;
+<!--  	        <strong>-</strong><a href="https://webshare.hs-bremen.de/f/b00b6fb4c0cd4b1d88c3/?dl=1;
                      style="position:absolute; top: 580px; margin-left:323px;"> 
-            Tutorials </a><br />
+            Tutorials </a> <br />
+-->
            
       </p>  
   </a>
