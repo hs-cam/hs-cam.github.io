@@ -23,7 +23,7 @@
  	  <a> <img id="Leiste-rechts" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
               width="3px" height="783px"></a>
 	</div>
-
+<!--
 <!-- --------------- Head --------------- -->
 	<div>
   	  <a href="https://www.hs-bremen.de/person/schmatz/"> 
@@ -125,7 +125,7 @@
     <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
 
 </div>
-
+-->
 
 </body>
 
