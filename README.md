@@ -158,7 +158,7 @@
      <a href="mailto:herbert.schmatz@hs-bremen.de">
       <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1" 
           style="position:absolute; top: 265px; margin-left:340px;"
-          width="144" height="200"border="0">
+          width="144px" height="200px" border="0">
      </a>
 </div>
 
@@ -219,7 +219,7 @@
 
 <div style="position:absolute; top: 580px; margin-left:323px;">
   <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="696" height="1"></a>
+              width="696px" height="1px"></a>
 </div>
 
 
