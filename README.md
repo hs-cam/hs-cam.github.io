@@ -13,7 +13,7 @@
 	<div>
   	  <a href="https://www.hs-bremen.de/person/schmatz/"> 
     	   <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1" 
-     	     style="position:absolute; top: 6; margin-left:5;"
+     	     style="position:absolute; top: 6px; margin-left:5px;"
      	     width="340" height="196"> 
   	  </a>
 	</div>
@@ -21,7 +21,7 @@
 	<div>
   	  <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
     	   <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"  
-     	     style="position:absolute; top: 6; margin-left:344;"
+     	     style="position:absolute; top: 6px; margin-left:344px;"
      	     width="670" height="196">
   	  </a>
 	</div>
