@@ -20,19 +20,19 @@
               width="1020px" height="3px"></a>
 	</div>
 
-	<div style="position:absolute; top: 767px; margin-left:0px;">
+	<div style="position:absolute; top: 780px; margin-left:0px;">
   	  <a> <img id="Leiste-unten" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
               width="1020px" height="3px"></a>
 	</div>
 
 	<div style="position:absolute; top: 3px; margin-left0px;">
   	  <a> <img id="Leiste-links" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
-              width="3px" height="763px"></a>
+              width="3px" height="780px"></a>
 	</div>
 
 	<div style="position:absolute; top: 0px; margin-left:1012px;">
  	  <a> <img id="Leiste-rechts" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
-              width="3px" height="763px"></a>
+              width="3px" height="780px"></a>
 	</div>
 
 <!-- --------------- Head --------------- -->
@@ -219,7 +219,7 @@
 
 <div style="position:absolute; top: 580px; margin-left:323px;">
   <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="696px" height="1px"></a>
+              width="686px" height="1px"></a>
 </div>
 
 
