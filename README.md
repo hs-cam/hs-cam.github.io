@@ -10,8 +10,7 @@
      	     width="340px" height="196px"> 
   	  </a>
 	</div>
-
-	<div>
+<div>
   	  <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
     	   <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"  
      	     style="position:absolute; top: 6px; margin-left:342px;"
@@ -19,12 +18,7 @@
   	  </a>
 	</div>
 
-	<div style="position:absolute; top: 187px; margin-left:3px;">
-  	  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1010px" height="5px"></a>
-	</div>
-
-	<p style="position:absolute; top: 202px; margin-left:200px;  width:680; height=20;">
+ <p style="position:absolute; top: 202px; margin-left: 200px;  width= 680; height= 20;">
     	<b>
       	<span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">
             INT - Institut für Nachrichtentechnik / 
@@ -34,6 +28,10 @@
        </span> 
      	</b>     
 	</p>
+
+	
+
+	
 
 
 	<div style="position:absolute; top: 215px; margin-left:3px;">
