@@ -5,10 +5,7 @@
 	
 <body>
 <!-- --------------- Rahmen ---------------->
-	<div style="position:absolute; top: 0px; margin-left:0px;">
-  	  <a> <img id="Home" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1015px" height="3px"></a>
-	</div>
+	
 
 	<div style="position:absolute; top: 770px; margin-left:0px;">
   	  <a> <img id="Leiste-unten" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
