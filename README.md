@@ -20,7 +20,7 @@
               width="3px" height="783px"></a>
 	</div>
 
-	<div style="position:absolute; top: 3px; margin-left:1000px;">
+	<div style="position:absolute; top: 3px; margin-left:800px;">
  	  <a> <img id="Leiste-rechts" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
               width="3px" height="783px"></a>
 	</div>
