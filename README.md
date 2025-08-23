@@ -22,7 +22,7 @@
 
 	<div style="position:absolute; top: 780px; margin-left:0px;">
   	  <a> <img id="Leiste-unten" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1015px" height="3px"></a>
+              width="1005px" height="3px"></a>
 	</div>
 
 	<div style="position:absolute; top: 3px; margin-left0px;">
@@ -76,9 +76,9 @@
          
 <!-- ------------------- Navi ------------------------ -->
  <span id="Anfang"></span>
-	<div style="position:absolute; top: 250px; margin-left:320px;">
+	<div style="position:absolute; top: 230px; margin-left:320px;">
   	  <a> <img id="Leiste-vertikal-mitte" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
-              width="3" height="516"></a>
+              width="3" height="520"></a>
 	</div>
 
   
@@ -144,10 +144,6 @@
       <strong>-</strong>
       <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune</a>, (FR). <br />
      </p>
-
-      <strong>-</strong> <a href="#EMV-Labor" >intern</a> <br>
-      <strong>-</strong> <a href="#" >privat</a> <br>
-      <strong>-</strong> <a href="#" >...</a>
 </div>
 
 
@@ -219,7 +215,7 @@
 
 <div style="position:absolute; top: 570px; margin-left:323px;">
   <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="688px" height="1px"></a>
+              width="683px" height="1px"></a>
 </div>
 
 
