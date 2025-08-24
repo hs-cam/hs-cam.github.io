@@ -154,16 +154,16 @@
                      cmd=view&amp;ref_id=847770">
             Grundlagen Elektrotechnik 1 </a><br />
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
-                     cmd=view&amp;ref_id=847769">
+                     cmd=view&amp;ref_id=847769"> 
             Grundlagen Elektrotechnik 2 </a><br />
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
-                     cmd=view&amp;ref_id=847775">
+                     cmd=view&amp;ref_id=847775"> 
             Signale und Systeme </a><br />
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
-                     cmd=view&amp;ref_id=847715">
+                     cmd=view&amp;ref_id=847715"> 
             Elektomagnetische Wellen </a><br />
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
-                     cmd=view&amp;ref_id=847720">
+                     cmd=view&amp;ref_id=847720"> 
             Informationsübertragung </a><br />
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
                      cmd=view&amp;ref_id=847777">
@@ -179,9 +179,9 @@
             EMC </a> (Université d'Artois Béthune / Frankreich) <br />
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
                      cmd=view&amp;ref_id=847697">
-            Introduction to Modern Telecommunication </a>  (Malaysia)<br />
+            Introduction to Modern Telecommunication </a>  (Malaysia) <br />
               <strong>-</strong><a href="https://webshare.hs-bremen.de/f/b00b6fb4c0cd4b1d88c3/?dl=1;
-                     Tutorials </a><br />
+                     Tutorials </a> <br />
 
       </p>
     </a>
