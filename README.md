@@ -11,7 +11,7 @@
 <!--  Kopf -->
  <table border="3">
        <tr>
-         <td colspan="2"> 
+         <td id="Anfang" colspan="2"> 
              <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
               width="100%" height="10"> 
           </td>
@@ -54,20 +54,24 @@
 	</p>
 <td>
 </tr>
-    </table>
+    
+
+<tr>
 
 
          
 <!-- ------------------- Navi ------------------------ -->
- <span id="Anfang"></span>
+<!-- 
+
 	<div style="position:absolute; top: 250px; margin-left:320px;">
   	  <a> <img id="Leiste-vertikal-mitte" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
               width="3" height="516"></a>
 	</div>
-
+-->
   
 <!-- ------------- ARBEITSSCHWERPUNKTE ---------------- -->
-  <div id="wrapper" style="position:absolute; top: 245px; margin-left:20px;">
+    <tr>
+    <td colspan=1>
       <p class="MsoNormal">
       <b>Arbeitsschwerpunkte </b> <br />
       <strong>-</strong> Anwendungsbezogene FuE, <br />
@@ -134,20 +138,20 @@
       <strong>-</strong> <a href="#" >privat</a> <br>
       <strong>-</strong> <a href="#" >...</a>
 </div>
-
+</td>
 
 <!-- Main -->
 
+<td>
 <div>
      <a href="mailto:herbert.schmatz@hs-bremen.de">
       <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1" 
-          style="position:absolute; top: 265px; margin-left:340px;"
           width="144" height="200"border="0">
      </a>
-</div>
 
 
-<div style="position:absolute; top: 460px; margin-left:340px;">
+
+
   <a> 
      <p class="MsoNormal"> 
         <strong>Prof. Dr.-Ing. Herbert Schmatz   <br /> </strong>
@@ -158,9 +162,9 @@
          herbert.schmatz@hs-bremen.de </a>
       </p>  
   </a>
-</div>
 
-<div style="position:absolute; top: 250px; margin-left:600px;">
+
+
   <a> 
      <p class="MsoNormal"> 
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
@@ -199,24 +203,23 @@
            
       </p>  
   </a>
-</div>
 
-<div style="position:absolute; top: 580px; margin-left:323px;">
+
+
   <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
               width="696" height="1"></a>
-</div>
 
 
 
-<div>
+
+
     <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3">
      <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/a202256070c6462699f4/?dl=1" 
-         style="position:absolute; top: 586px; margin-left:340px;"
-          width="248" height="173" border="0" />
+           width="248" height="173" border="0" />
     </a>
-</div>
 
-<div style="position:absolute; top: 590px; margin-left:610px;">
+
+
       <p class="MsoNormal">
         Drei Generationen Nachrichtentechnik <br /> (INT 1996) <br />
         Doz. Dr.-Ing. Schröder (Rechts)<br />
