@@ -8,7 +8,7 @@
 
 <body>
 
- <table style="width:100%" border="0">
+ <table style="width:100%" border="1">
      <tr> 
        <td id="Home" colspan=3>        
            <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
@@ -18,12 +18,14 @@
      <tr> 
       <td colspan=1>               
           <a href="https://www.hs-bremen.de/person/schmatz/">
-            <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1">
+            <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1"
+             width="400" height="230">
               </a> 
       </td>   
       <td colspan=2>  
           <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
-             <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1">
+             <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"
+              width="800" height="230">>
               </a>
       </td>        
      </tr>
