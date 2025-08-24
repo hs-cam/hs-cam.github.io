@@ -6,53 +6,43 @@
    <meta name="H.S." content="gp">
   </head>
 
+<body>
+  
+<!--  Kopf -->
+ <table border="3">
+       <tr>
+         <td colspan="2"> 
+             <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+              width="100%" height="10"> 
+          </td>
 
+        <tr>
+          <td>
+    	    <a href="https://www.hs-bremen.de/person/schmatz/"> 
+    	    <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1" 
+     	     width="100%" height="100%"> 
+  	    </a>
+          </td>
+       
+          <td>
+	    <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
+    	    <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"  
+     	     width="100%" height="100%">
+  	    </a>
+	  </td>
+        </tr>
+   
 
+        <tr>
+         <td colspan="2"> 
+             <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+              width="100%" height="10"> 
+          </td>
+        </tr>
 
-
-<!-- --------------- Rahmen ---------------->
-  <a> <img id="Home" width="0" height="0"></a>
-<div style="position:absolute; top: 3px; margin-left: 7px;">
-  	  <a> <img id="Leiste-oben" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1015" height="3"></a>
-</div>
-<div style="position:absolute; top: 766px; margin-left: 7px;">
-  	  <a> <img id="Leiste-unten" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1015" height="3"></a>
-</div>
-<div style="position:absolute; top: 3px; margin-left: 7px;">
-  	  <a> <img id="Leiste-links" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
-              width="3" height="763"></a>
-</div>	
-<div style="position:absolute; top: 3px; margin-left: 1019px;">
- 	  <a> <img id="Leiste-rechts" src="https://webshare.hs-bremen.de/f/84e575870f56476bae4f/?dl=1"
-              width="3" height="763"></a>
-</div>
-	
-
-<!-- --------------- Head --------------- -->
-	<div>
-  	  <a href="https://www.hs-bremen.de/person/schmatz/"> 
-    	   <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1" 
-     	     style="position:absolute; top: 6px; margin-left:10px;"
-     	     width="340" height="196"> 
-  	  </a>
-	</div>
-
-	<div>
-  	  <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
-    	   <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"  
-     	     style="position:absolute; top: 6px; margin-left:349px;"
-     	     width="670" height="196">
-  	  </a>
-	</div>
-
-	<div style="position:absolute; top: 202px; margin-left:10px;">
-  	  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1010" height="5"></a>
-	</div>
-
-	<p style="position:absolute; top: 197px; margin-left:200px;  width:680; height=20;">
+<tr>
+ <td colspan="2"> 
+	<p>
     	<b>
       	<span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">
             INT - Institut für Nachrichtentechnik / 
@@ -62,12 +52,11 @@
        </span> 
      	</b>     
 	</p>
+<td>
+</tr>
+    </table>
 
 
-	<div style="position:absolute; top: 245px; margin-left:10px;">
-  	  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="1010" height="5"></a>
-	</div>
          
 <!-- ------------------- Navi ------------------------ -->
  <span id="Anfang"></span>
