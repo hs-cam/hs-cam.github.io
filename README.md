@@ -129,19 +129,18 @@
 <!-- Main -->
 
 <td>
-  <!--
+  
      <a href="mailto:herbert.schmatz@hs-bremen.de">
       <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1"
-          width="144" height="200"border="0">
+          width="144" height="200"border="0" />
      </a>
-  -->
-
-
+  
+<!--
     <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3">
      <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/a202256070c6462699f4/?dl=1"
            width="248" height="173" border="0" />
     </a>
-  
+-->  
   <a>
      <p class="MsoNormal">
         <strong>Prof. Dr.-Ing. Herbert Schmatz   <br /> </strong>
