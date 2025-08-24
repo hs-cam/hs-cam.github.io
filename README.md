@@ -135,7 +135,7 @@
        </a>
         <p class="MsoNormal">
          <strong>Prof. Dr.-Ing. Herbert Schmatz   <br /> </strong>
-         Elektrotechnik und Informationstechnik </br>
+         Elektrotechnik und Informationstechnik <br />
          Leiter des Institut für Nachrichtentechnik <br />
          Leiter des EMV-Labor <br />
          <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
