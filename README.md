@@ -4,7 +4,9 @@
    <meta name="description" content="">
    <meta name="keywords" content="HTML, Metatags">
    <meta name="H.S." content="gp">
- <p style="background-image: url('https://webshare.hs-bremen.de/f/61c5bf9e267f46cfb044/?dl=1');"> 
+    <script>
+  <p style="background-image: url('https://webshare.hs-bremen.de/f/61c5bf9e267f46cfb044/?dl=1');"> 
+    </script>
   </head>
 
 <body>
