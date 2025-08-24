@@ -212,7 +212,7 @@
 <!-- ................ Videos ................................. -->
 
 <!-- .................EMV-Labor............................... -->
-<div style="position:absolute; top: 2000px; margin-left:0px;">
+
     <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400"/> <br>
     <form id="EMV" action="#Home" ><input type="submit" value="Home" /></form>
     <span> <h2>Labor für EMV, ARD 1994 </h2> </span>
