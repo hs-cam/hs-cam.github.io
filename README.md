@@ -8,56 +8,57 @@
 
 <body>
 
-<!--  Kopf -->
- <table border="3">
-       <tr>
-         <td id="Home" colspan="2">
-             <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="100%" height="10">
-          </td>
-        </tr>
-        <tr>
-          <td>
-                <a href="https://www.hs-bremen.de/person/schmatz/">
-                <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1"
-                  width="100%" height="100%">
+ <table style="width:880" border="1">
+     <tr> 
+       <td id="Home" colspan=3>        
+           <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
+              width="100%" height="0"> </td>
+     </tr>
+
+     <tr> 
+      <td colspan=1>               
+          <a href="https://www.hs-bremen.de/person/schmatz/">
+            <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1"
+             width="320px" height="184px">
+              </a> 
+      </td>   
+      <td colspan=2>  
+          <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
+             <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"
+              width="640px" height="184px">
               </a>
-          </td>
+      </td>        
+     </tr>
 
-          <td>
-            <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
-                <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"
-                  width="100%" height="100%">
-              </a>
-          </td>
-        </tr>
+     <tr> 
+       <td colspan=3>           
+           <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
+              width="100%" height="3"> </td> </td>
+     </tr>
 
+     <tr> 
+       <td colspan=3>        
+           <p>
+            <b> <span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">
+                 INT - Institut für Nachrichtentechnik /
+                <a  style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif"
+                  href="https://www.hs-bremen.de" >  Hochschule Bremen
+                </a>
+                </span>
+            </b>
+           </p> 
+       </td>
+     </tr>
 
-        <tr>
-         <td colspan="2">
-             <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="100%" height="10">
-          </td>
-        </tr>
+     <tr> 
+       <td colspan=3>
+           <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
+              width="100%" height="3"> </td> </td>
+     </tr>
 
-<tr>
- <td colspan="2">
-        <p>
-            <b>
-              <span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">
-            INT - Institut für Nachrichtentechnik /
-            <a  style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif"
-                href="https://www.hs-bremen.de" >  Hochschule Bremen
-            </a>
-       </span>
-             </b>
-        </p>
-  </td>
-</tr>
-
-<!-- ------------- ARBEITSSCHWERPUNKTE ---------------- -->
    <tr>
-    <td colspan=1>
+    <td rowspan="2" colspan=1>
+
       <p class="MsoNormal">
       <b>Arbeitsschwerpunkte </b> <br />
       <strong>-</strong> Anwendungsbezogene FuE, <br />
@@ -124,32 +125,29 @@
       <strong>-</strong> <a href="#" >privat</a> <br>
       <strong>-</strong> <a href="#" >...</a>
 
-</td>
+    </td>
 
-<!-- Main -->
-
-<td>
-  
+    <td colspan=1>  
      <a href="mailto:herbert.schmatz@hs-bremen.de">
       <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1"
           width="144" height="200" border="0" />
      </a>
-  
-  <a>
+      <p class="MsoNormal">
+         <strong>Prof. Dr.-Ing. Herbert Schmatz   <br /> </strong>
+         Elektrotechnik und Informationstechnik </br>
+         Leiter des Institut für Nachrichtentechnik <br />
+         Leiter des EMV-Labor <br />
+         <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
+          herbert.schmatz@hs-bremen.de </a>
+       </p>
+
+     </a> 
+    </td>
+
+     <td colspan=1>
+       <a>
      <p class="MsoNormal">
-        <strong>Prof. Dr.-Ing. Herbert Schmatz   <br /> </strong>
-        Elektrotechnik und Informationstechnik </br>
-        Leiter des Institut für Nachrichtentechnik <br />
-        Leiter des Labor für Elektromagngetische Verträglichkeit <br />
-        <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
-         herbert.schmatz@hs-bremen.de </a>
-      </p>
-  </a>
-
-
-
-  <a>
-     <p class="MsoNormal">
+       <b>Vorlesungsunterlagen </b> <br />
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
                      cmd=view&amp;ref_id=847770">
             Grundlagen Elektrotechnik 1 </a><br />
@@ -179,35 +177,38 @@
             EMC </a> (Université d'Artois Béthune / Frankreich) <br />
             <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
                      cmd=view&amp;ref_id=847697">
-            Introduction to Modern Telecommunication </a>  (Malaysia) <br />
-           <strong>-</strong><a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
-                     cmd=view&amp;ref_id=847697">
-            Introduction to Modern Telecommunication </a>  (Malaysia) <br />
-            <strong>-</strong><a href="https://webshare.hs-bremen.de/f/b00b6fb4c0cd4b1d88c3/?dl=1;">
-                     Tutorials </a> <br />
+            Introduction to Modern Telecommunication </a>  (Malaysia) <br />  <br />
+                       <strong>-</strong>
+                      <a href="#Tutorials">  Tutorials </a> <br />
+               <br /> <br /> <br /> <br />
       
+
       </p>
     </a>
-  
-    <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-             width="696" height="1">
-    </a>
+     </td>
+  </tr>
+
+  <tr>
+        <td colspan=1> </a>
     
     <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3">
      <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/a202256070c6462699f4/?dl=1"
            width="248" height="173" border="0" />
-    </a>
-    
-      <p class="MsoNormal">
-        Drei Generationen Nachrichtentechnik <br /> (INT 1996) <br />
+    </a> </td>
+        <td colspan=1>   
+<p class="MsoNormal">
+        INT 1996 - wissenschaftliches Kolloquium <br />
+        Drei Generationen Nachrichtentechnik <br />
         Doz. Dr.-Ing. Schröder (Rechts)<br />
         Prof. Dr.-Ing. Rommel (Mitte) <br />
         Prof. Dr.-Ing. Schmatz (Links)
+        <br /> <br /> <br /> <br />
       </p>
-
-</td>
-</tr>
+ </td>
+  </tr>
+   
 </table>
+
 <!-- ................ Videos ................................. -->
 
 <!-- .................EMV-Labor............................... -->
@@ -261,17 +262,21 @@
           Your browser does not support the video tag.        </video>
     </a>
 
-    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
 
+<!-- ..................Tutorials............................... -->
 
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br> 
 
-    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
-    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
+  <form id="Tutorials" action="#Home" ><input type="submit" value="Home" /></form>
+     <span> <h2>Tutorials </h2> </span>
+  <img id="Tutorials"  src="https://webshare.hs-bremen.de/f/b00b6fb4c0cd4b1d88c3/?dl=1" width="800" height="600" /> 
+   <br>
 
-
-
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
 
 </body>
 
 </html>
+
+
 
