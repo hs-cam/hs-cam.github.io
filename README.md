@@ -11,7 +11,7 @@
 <!--  Kopf -->
  <table border="3">
        <tr>
-         <td id="Anfang" colspan="2">
+         <td id="Home" colspan="2">
              <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
               width="100%" height="10">
           </td>
@@ -129,15 +129,19 @@
 <!-- Main -->
 
 <td>
-
+  <!--
      <a href="mailto:herbert.schmatz@hs-bremen.de">
       <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1"
           width="144" height="200"border="0">
      </a>
+  -->
 
 
-
-
+    <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3">
+     <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/a202256070c6462699f4/?dl=1"
+           width="248" height="173" border="0" />
+    </a>
+  
   <a>
      <p class="MsoNormal">
         <strong>Prof. Dr.-Ing. Herbert Schmatz   <br /> </strong>
@@ -188,24 +192,17 @@
             Tutorials </a><br />
 
       </p>
-  </a>
-
-
-
-  <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
-              width="696" height="1"></a>
-
-
-
-
-
+    </a>
+  
+    <a> <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
+             width="696" height="1">
+    </a>
+    
     <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3">
      <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/a202256070c6462699f4/?dl=1"
            width="248" height="173" border="0" />
     </a>
-
-
-
+    
       <p class="MsoNormal">
         Drei Generationen Nachrichtentechnik <br /> (INT 1996) <br />
         Doz. Dr.-Ing. Schröder (Rechts)<br />
