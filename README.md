@@ -25,7 +25,7 @@
       <td colspan=2>  
           <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
              <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"
-              width="800" height="230">>
+              width="800" height="230">
               </a>
       </td>        
      </tr>
