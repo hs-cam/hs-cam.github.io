@@ -2,9 +2,6 @@
 <head>
    <meta charset="utf-8">
    <meta name="description" content="" />
-   <meta name="key<html lang="de">
-   <meta charset="utf-8">
-   <meta name="description" content="" />
    <meta name="keywords" content="HTML, Metatags" />
    <meta name="H.S." content="gp" />
    <title>INT - HS-BREMEN</title>
