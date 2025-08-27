@@ -60,9 +60,9 @@
                 </a>
                 </span>
             </b>
-       </td>
+ 
 
-</table>
+
 
  <!-- ---- ANSCHRIFT ---- -->
  <table border="0" width="730">
