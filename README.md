@@ -22,34 +22,44 @@
     </style>
 
     <table border="0" width="720">
+
+     <tr> 
+       <td id="Home" colspan=3>        
+           <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1"
+              width="100%" height="0"> </td>
+     </tr>
+
       <tr>
          <td>
-           <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/4b6c78bfbc6c4e36ad3e/?dl=1" width="238" height="160">  
+      <a href="https://www.hs-bremen.de/person/schmatz/">
+            <img id="INT-Logo" src="https://webshare.hs-bremen.de/f/68a43f882844470e8f31/?dl=1"
+             width="238" height="160">
+              </a> 
          </td>
          <td> 
-           <img id="EMV-Lab" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1" width="478" height="160"> 
+               <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/labore/labor-fuer-elektromagnetische-vertraeglichkeit/">
+             <img id="EMV-Labor" src="https://webshare.hs-bremen.de/f/fab66224e9fb4998af47/?dl=1"
+              width="476" height="160">
+              </a>
          </td>
       </tr>
   
       <tr>
          <td colspan="2">
-              <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="720" height="18"> 
+              <img id="Leiste" src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+                   width="720" height="18"> 
         </td>
       </tr>
 
        <td colspan="2">
-          <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-            <b><span style="font-size:20.0pt;font-family:&quot;Times New Roman&quot;,serif">
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;      
-            INT - Institut für Nachrichtentechnik</span></b>
-          </p>
-          <p class="MsoNormal" style="margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal">
-            <b><span style="font-size:12.0pt;font-family:&quot;Times New Roman&quot;,serif">
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-            &nbsp;&nbsp;&nbsp;
-            Gegründet 1992 an der Hochschule Bremen</span></b>
-          </p>       
+             <p>
+            <b> <span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">
+                    INT - Institut für Nachrichtentechnik /
+                <a  style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif"
+                  href="https://www.hs-bremen.de" >  Hochschule Bremen
+                </a>
+                </span>
+            </b>
        </td>
 
 </table>
@@ -73,14 +83,19 @@
       Weiterbildung und Hochschullehre <br>
       </p>
    
-   <!-- ---- INTERNATIONALE KOOPERATIONEN ---- -->
-      <p class="MsoNormal">  
-      <b> Internationale Kooperationen </b> <br>
-      <a href="https://www.lsbu.ac.uk/"> London South Bank University LSBU</a>, (GB) <br>
-      <a href="https://nki.bme.hu/">Technische Universität Budapest</a>, (HU) <br>
-      <a href="https://kvk.uni-obuda.hu/">TH für Elektrotechnik "Kando Kalman" Budapest</a>,  (HU) <br>
-      <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune</a>, (FR). <br>
-      </p>
+    <!-- ---- INTERNATIONALE KOOPERATIONEN ---- -->
+     <p class="MsoNormal">
+      <b> Internationale Kooperationen </b> <br />
+      <strong>-</strong>
+      <a href="https://www.lsbu.ac.uk/"> London South Bank University LSBU </a>, (GB) <br />
+      <strong>-</strong>
+      <a href="https://nki.bme.hu/">Technische Universität Budapest </a>, (HU) <br />
+      <strong>-</strong>
+      <a href="https://uni-obuda.hu/szervezeti-egyseg/kalman-kando-faculty-of-electrical-engineering/">
+         TH "Kando Kalman" Budapest </a>, (HU) <br />
+      <strong>-</strong>
+      <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune </a>, (FR). <br />
+     </p>
 
    <!-- ............... Ansprechpartner .................. -->
    <p class="MsoNormal">     
@@ -90,34 +105,34 @@
          herbert.schmatz@hs-bremen.de </a> <br> <br>
    </p>
 
-   <!-- .................. weitere Aktivitäten ........... -->
-   <p class="MsoNormal">     
-     <b>weitere Aktivitäten</b>    <br>
-
-     <span style="font-size:10.0pt;font-family:Symbol">·       </span> 
+    <!-- ------------- weitere Aktivitäten ----------- -->
+     <p class="MsoNormal">
+     <b>weitere Aktivitäten</b>    <br />
+        <strong>-</strong>
         <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/forschung-und-transfer/institut-fuer-nachrichtentechnik/">
-        Institut für Nachrichtentechnik (intern)  </a> <br>
-    
-     <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-	<a href="https://webshare.hs-bremen.de/f/55e32fc337d24a739730/" title="Labor für EMV">
-        Labor für EMV, ARD 1994  </a> <br>
-   
-     <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-	<a href="https://webshare.hs-bremen.de/f/da509d7652c244cca6e5/" title="3D-Fernshtechnik">
-	3D-Fernsehtechnik, ARD 8.11.2001 </a> <br>
-	
-     <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-	<a href="https://webshare.hs-bremen.de/f/3c55616dff55462b8676/" title="3D-Vdeotechnik">
-	3D-Videotechnik, SAT1 8.11.2001  </a><br>
+        Institut für Nachrichtentechnik (intern)  </a> <br />
 
-     <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
-	<a href="https://webshare.hs-bremen.de/f/2372d84458ab4759b3f8/" title="Luft- und Raumfahrt">
-	Luft- und Raumfahrt 2009         </a> <br>
+        <strong>-</strong>
+        <a href="#EMV" title="EMV_05.10.1995">
+        <!-- https://webshare.hs-bremen.de/f/e384f198e7e34436a5de/ -->
+          EMV-Labor ARD 5.10.1995 </a> <br/>
 
-     <span style="font-size:10.0pt;font-family:Symbol">·	</span> 
+        <strong>-</strong>
+        <a href="#3D-TV" title="3D-Fernsehtechnik">
+        3D-Fernsehtechnik, ARD 8.11.2001 </a> <br />
+
+        <strong>-</strong>
+        <a href="#3D-Video" title="3D-Videotechnik">
+        3D-Videotechnik, SAT1 8.11.2001  </a><br />
+
+        <strong>-</strong>
+        <a href="#DLR" title="Luft- und Raumfahrt">
+        Luft- und Raumfahrt 2009         </a> <br />
+
+        <strong>-</strong>
         <a href="https://www.hs-bremen.de/informationen-fuer/alumni/" title="ALUMNI">
-	 ehemalige Studierende ALUMNI	</a> <br> <br>
-    </p>
+         ehemalige Studierende ALUMNI        </a> <br />
+     </p>
 
    <!-- ................... Forschung .................... -->
  
@@ -155,8 +170,10 @@
 
 <!-- .......................... Bilder ..................... -->
   <td>
-    <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1" 
-      width="168" height="233" border="0">
+     <a href="mailto:herbert.schmatz@hs-bremen.de">
+       <img id="Prof. Dr. Schmatz" src="https://webshare.hs-bremen.de/f/0ec3960e76d544dd9b80/?dl=1"
+          width="144" height="200" border="0" />
+       </a>
      <p class="MsoNormal">
       Prof. Dr.-Ing. Herbert Schmatz   <br>
       Leiter des INT 1992 - 2008 <br>
@@ -170,8 +187,11 @@
       Signale und Systeme <br>
     </p>
     
-    <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/a202256070c6462699f4/?dl=1" 
-      width="248" height="173" border="0">
+      
+     <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3"> 
+       <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/a202256070c6462699f4/?dl=1" 
+          width="248" height="173" border="0">
+     </a>  
     <p class="MsoNormal">
       90. Geburtstag von Doz. Dr.-Ing. Schröder <br>
       Prof. Dr.-Ing. Rommel (Mitte) <br>
@@ -307,6 +327,81 @@
   </td>
 
 </table>
+
+
+
+
+
+<!-- ................ Videos ................................. -->
+
+<!-- .................EMV-Labor............................... -->
+
+    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400"/> <br>
+    <form id="EMV" action="#Home" ><input type="submit" value="Home" /></form>
+    <span> <h2>Labor für EMV, ARD 1994 </h2> </span>
+    <a> <video controls="controls" >
+          <source src="https://webshare.hs-bremen.de/f/e384f198e7e34436a5de/?dl=1" target="_blank" type="video/mp4" />
+          Your browser does not support the video tag.        </video>
+    </a>
+
+    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
+
+
+<!-- .................3D-Fernsehtechnik.............................. -->
+
+    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
+    <form id="3D-TV" action="#Home" ><input type="submit" value="Home" /></form>
+    <span> <h2>3D-Fernsehtechnik, ARD 8.11.2001 </h2> </span>
+    <a> <video controls="controls" >
+          <source src="https://webshare.hs-bremen.de/f/8eb18e769b024db69716/?dl=1" target="_blank" type="video/mp4" />
+          Your browser does not support the video tag.        </video>
+    </a>
+
+    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
+
+
+<!-- ..................3D-Videotechnik............................... -->
+
+    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
+
+    <form id="3D-Video" action="#Home" ><input type="submit" value="Home" /></form>
+    <span> <h2>3D-Videotechnik, SAT1 8.11.2001 </h2> </span>
+    <a> <video controls="controls" >
+             <source src="https://webshare.hs-bremen.de/f/f3e00633d06445618dcd/?dl=1" target="_blank" type="video/mp4" />
+             Your browser does not support the video tag.        </video>
+    </a>
+
+    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
+
+
+<!-- ...................Luft- und Raumfahrt........................... -->
+
+    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
+
+    <form id="DLR" action="#Home" ><input type="submit" value="Home" /></form>
+     <span> <h2>Luft-und_Raumfahrt 2009 </h2> </span>
+    <a> <video controls="controls" >
+          <source src="https://webshare.hs-bremen.de/f/430477be65794678884a/?dl=1" target="_blank" type="video/mp4" />
+          Your browser does not support the video tag.        </video>
+    </a>
+
+
+<!-- ..................Tutorials............................... -->
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br> 
+
+    <form id="Tutorials" action="#Home" ><input type="submit" value="Home" /></form>
+     <span> <h2>Tutorials </h2> </span>
+   <a>
+    <img id="Tutorials"  src="https://webshare.hs-bremen.de/f/b00b6fb4c0cd4b1d88c3/?dl=1" width="800" height="600" /> 
+   </a>
+  <br>
+
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
+
+
+
+
 
 
 <!-- ....................... privater Bereich ......................... -->
