@@ -164,7 +164,7 @@
        </a>
      <p class="MsoNormal">
       Prof. Dr.-Ing. Herbert Schmatz   <br>
-      Leiter des INT 1992 - 2008 <br>
+      Leiter des INT 1992 - 2018 <br>
       <span style="font-size:10.0pt;font-family:Symbol">· </span> 	
       Elektrotechnik <br>
       <span style="font-size:10.0pt;font-family:Symbol">· </span> 	
