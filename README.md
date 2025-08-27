@@ -3,7 +3,6 @@
    <meta charset="utf-8">
    <meta name="description" content="" />
    <meta name="key<html lang="de">
-<head>
    <meta charset="utf-8">
    <meta name="description" content="" />
    <meta name="keywords" content="HTML, Metatags" />
