@@ -12,8 +12,6 @@
 </head>
 
 <body>
-    <div>
-    </div>
     <style>
     p.MsoNormal, li.MsoNormal, div.MsoNormal
 	{margin-top:0cm;
