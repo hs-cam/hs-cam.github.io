@@ -181,9 +181,9 @@
     <p class="MsoNormal">
       <b>Drei Generationen Nachrichtentechnik</b> <br>
       90. Geburtstag von <br>
-      Doz. Dr.-Ing. Schröder, <br>
-      Prof. Dr.-Ing. Rommel (Mitte), <br>
-      Prof. Dr.-Ing. Schmatz (Links),<br>
+      Doz. Dr.-Ing. Heinrich Schröder.<br>
+      Prof. Dr.-Ing. Günther Rommel, <br>
+      Prof. Dr.-Ing. Herbert Schmatz.<br>
       INT 1996
     </p>
  </td>
@@ -200,32 +200,38 @@
 
       <span style="font-size:10.0pt;font-family:Symbol">·        </span>
 
-     <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
-      GEL1 - Grundlagen der Elektrotechnik 1 (M1.6)  </a> <br>
+     <a href="#GEL1">
+        GEL1 - Grundlagen der Elektrotechnik 1 </a> <br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
-        GEL2- Grundlagen der Elektrotechnik 2 (M2.6) </a> <br>
+        <a href="#GEL2">
+        GEL2 - Grundlagen der Elektrotechnik 2 </a> <br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
-        SuS - Signale und Systeme (M3.2) </a>  <br>
+        <a href="#SYS">
+        SuS - Signale und Systeme </a>  <br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
-        EMW – Elektromagnetische Wellen (M3.4)  </a> <br>
+        <a href="#GIT">
+        GIT - Grundlagen der Informationstechnik </a>  <br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
-        DSV - Digitale Signalverarbeitung (M5.11)  </a> <br>
+        <a href="#EMW">
+        EMW – Elektromagnetische Wellen  </a> <br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
-        PRJ 1 - Projekt in der Informationstechnik (M6.1)  </a> <br>
+        <a href="#DSV">
+        DSV - Digitale Signalverarbeitung  </a> <br>
 
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
-        ITS - Informationstechnische Systeme (M6.7)  </a> <br>
+        <a href="#ITS">
+        ITS - Informationstechnische Systeme  </a> <br>
+
+     <span style="font-size:10.0pt;font-family:Symbol">·        </span>
+        <a href="#PJIT">
+        PJIT - Projekt Informationstechnik  </a> <br>
+
+
 
 
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
@@ -246,11 +252,13 @@
 
     <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.hs-bremen.de/studieren/studiengang/elektrotechnik-b-eng/">
-        Elektrotechnink B.Eng. </a> <br>
+        Elektrotechnik B.Eng. </a> <br>
 
+<!--
     <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
          Elektrotechnik B. Eng. - Modulhandbuch </a>  <br>
+-->
 
     <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.mathcad.com/de/try-and-buy/mathcad-express-free-download">
@@ -626,8 +634,175 @@
 </table>
    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
     width="0" height="200" /> <br>
+
+
+<!-- .................................Lehrveranstaltungen............................ -->
+<!-- .....................GEL1........................ -->
+<table border="1" width="730">
+<tr>
+<td id="GEL1">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+    <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Grundlagen der Elektrotechnik 1</h2> </span>
+    <img src="https://webshare.hs-bremen.de/f/d864f294e7604600918a/?dl=1" width="730">
+    
+</td>
+</tr>
+</table>
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
+
+<!-- .....................GEL2........................ -->
+<table border="1" width="730">
+<tr>
+<td id="GEL2">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+    <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Grundlagen der Elektrotechnik 2</h2> </span>
+    <img src="https://webshare.hs-bremen.de/f/bf55be039e2942e189ab/?dl=1" width="730" > 
+    
+</td>
+</tr>
+</table>
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
+
+
+<!-- ..........................EMW....................... -->
+<table border="1" width="730">
+<tr>
+<td id="EMW">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+    <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Elektromagnetische Felder und Wellen</h2> </span>
+    <img src="https://webshare.hs-bremen.de/f/21f8a8a3056142e1a45d/?dl=1" width="730">
+    
+</td>
+</tr>
+</table>
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
+
+
+
+<!-- .....................SYS........................ -->
+<table border="1" width="730">
+<tr>
+<td id="SYS">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+    <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Signale und Systeme</h2> </span>
+    <img src="https://webshare.hs-bremen.de/f/29285c1bdba945df9f85/?dl=1" width="730">
+ 
+</td>
+</tr>
+</table>
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
+
+<!-- ..........................DSV................... -->
+<table border="1" width="730">
+<tr>
+<td id="DSV">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+    <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Digitale Signalverarbeitung</h2> </span>
+    <img src="https://webshare.hs-bremen.de/f/6e6c7319a1b14b4eb83f/?dl=1" width="730" >
+  
+</td>
+</tr>
+</table>
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
+
+
+<!-- .....................GIT........................ -->
+<table border="1" width="730">
+<tr>
+<td id="GIT">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+    <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Grundlagen der Informationstechnik</h2> </span>
+    <img src="https://webshare.hs-bremen.de/f/ae48d46797174f098e33/?dl=1" width="730">
+    
+</td>
+</tr>
+</table>
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
+
+
+
+<!-- .....................ITS........................ -->
+<table border="1" width="730">
+<tr>
+<td id="ITS">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+    <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Informationstrechnische Systeme</h2> </span>
+    <img src="https://webshare.hs-bremen.de/f/9bfaf08a6d7f4e02bf8b/?dl=1" width="730">
+  
+</td>
+</tr>
+</table>
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
+
+<!-- ..........................PJIT....................... -->
+<table border="1" width="730">
+<tr>
+<td id="PJIT">
+  
+    <form  action="#Home" ><input type="submit" value="Home" ></form>
+    <form action="#Lehre" ><input type="submit" value="Lehrveranstaltungen" ></form>
+    <span> <h2>Projekt Informationstechnik</h2> </span>
+
+      <form  action="https://aulis.hs-bremen.de" >
+      <input type="submit" value="--->AULIS" ></form>
+
+    
+</td>
+</tr>
+</table>
+
+   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="200" /> <br>
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+    width="0" height="400" /> <br>
+
+
 <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
     width="0" height="200" /> <br>
+
+
 
 
 
