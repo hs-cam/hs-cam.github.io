@@ -11,7 +11,6 @@
 </head>
 
 <body>
-
     <table border="1" width="720">
       <tr>
          <td id="Home">
@@ -27,10 +26,8 @@
               </a>
          </td>
       </tr>
-
       <tr>
           <td colspan="2" align="center">
-
             <b> <span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">
                     INT - Institut für Nachrichtentechnik /
                 <a  style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif"
@@ -40,8 +37,6 @@
             </b>
            </td>
        </tr>
-
- 
      </table>
 
 
