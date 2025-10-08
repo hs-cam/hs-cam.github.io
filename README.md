@@ -45,7 +45,7 @@
      </table>
 
 
- <!-- ---- ANSCHRIFT ---- -->
+ <!--  ANSCHRIFT  -->
  <table border="1" width="730">
   <td width="430">
        <p class="MsoNormal">
@@ -68,7 +68,7 @@
 
 
 
-   <!-- ---- ARBEITSSCHWERPUNKTE ---- -->
+   <!-- ARBEITSSCHWERPUNKTE -->
       <p class="MsoNormal">
       <b>Arbeitsschwerpunkte </b> <br>
       Anwendungsbezogene Forschung und Entwicklung,<br>
@@ -76,7 +76,7 @@
       Weiterbildung und Hochschullehre <br>
       </p>
 
-    <!-- ---- INTERNATIONALE KOOPERATIONEN ---- -->
+    <!-- INTERNATIONALE KOOPERATIONEN -->
      <p class="MsoNormal">
       <b> Internationale Kooperationen </b> <br />
       <strong>-</strong>
@@ -91,7 +91,7 @@
      </p>
 
 
-    <!-- ------------- weitere Aktivitäten ----------- -->
+    <!-- weitere Aktivitäten -->
      <p class="MsoNormal">
      <b>weitere Aktivitäten</b>    <br />
         <strong>-</strong>
@@ -245,7 +245,7 @@
         Mathcad Express (Download) </a> <br>
 
    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="https://aulis.hs-bremen.de/login.php?target=crs_366541&cmd=force_login&lang=de">
+        <a href="https://aulis.hs-bremen.de/login.php?  target=crs_366541&cmd=force_login&lang=de">
          Mathcad 15 (Download) (für Kursteilnehmer) </a> <br>
 
    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
@@ -357,7 +357,7 @@
   </td>
  </tr>
 
-<tr>
+ <tr>
   <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
     <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
        <a href="#Tut007">
@@ -390,7 +390,7 @@
   </td>
  </tr>
 
-<tr>
+ <tr>
   <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
     <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
        <a href="#Tut010">
@@ -545,16 +545,16 @@
      </p>
   </td>
  </tr>
-</table>
+<table>
 
  <p class=MsoNormal>Prof. Dr. Schmatz 2020   <br>
    <b>___________________________________________________________________________________________</b>
- </p>
+   </p>
 
 
- <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="100" /> <br>
+    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="100" /> <br>
 
-<!-- ................ Lehrmaterial ........................ -->
+     <!-- ................ Lehrmaterial ........................ -->
 
     <a href="#img_01">  
        <img id="EE" src="https://webshare.hs-bremen.de/f/c7637f414ddd4db5b575/?dl=1" 
@@ -637,16 +637,15 @@
     </a>
     <br>
 
+    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
+      width="0" height="400" /> <br>
+ </table>
+ <!-- ................ Videos ................................. -->
 
-   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
-   width="0" height="400" /> <br>
-
-<!-- ................ Videos ................................. -->
-
-<!-- .................EMV-Labor............................... -->
-<table border="1" width="730">
-<tr>
-<td>
+ <!-- .................EMV-Labor............................... -->
+ <table border="1" width="730">
+  <tr>
+   <td>
     <form id="EMV" action="#Home" ><input type="submit" value="Home" /></form>
     <span> <h2>Labor für EMV, ARD 1994 </h2> </span>
     <a> <video controls="controls" >
@@ -654,9 +653,10 @@
           target="_blank" type="video/mp4" />
           Your browser does not support the video tag.        </video>
     </a>
-</td>
-</tr>
-</table>
+   </td>
+  </tr>
+ </table>
+ 
    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
 
 <!-- .................3D-Fernsehtechnik.............................. -->
