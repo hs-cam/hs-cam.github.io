@@ -232,7 +232,7 @@
         <table>
 
 <!-- ........................ ergänzendes Lehrmaterial ............................ -->
-<table border="1"  id="Lehre">
+<table border="1"  width="720" id="Lehre">
     <tr>
     <td  colspan="3" style='width:152.15pt;padding:0cm 0cm 0cm 0cm' align="center">
      <p class=MsoNormal id="Tutorials">
