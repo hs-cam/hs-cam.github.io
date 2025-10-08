@@ -21,7 +21,7 @@
     </table>
     <!--  Name -->
     <table border="1" width="720">         
-      <td align="center">
+      <td  width="720" align="center">
         <b> 
           <span style="font-size:16.0pt;font-family:&quot;Times New Roman&quot;,serif">
            INT - Institut für Nachrichtentechnik /
