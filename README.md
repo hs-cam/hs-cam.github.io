@@ -543,7 +543,7 @@
     <br>
     <a href="#img_01">  
        <img id="improc" src="https://webshare.hs-bremen.de/f/de956b2847b44488afbc/?dl=1" 
-       width=730 height=4115  border="2" />  <!-- width=558 height=2396 -->
+       width=730 height=3115  border="2" />  <!-- width=558 height=2396 -->
     </a>
     <br>
     <a href="#img_01">  
