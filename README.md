@@ -164,7 +164,7 @@
  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="00" /> <br>
 
  <!-- ..................... Lehrveranstaltungen ............................ -->
- <table border="1" width="1030" id="Lehre">
+ <table border="1" width="730" id="Lehre">
   <td width="365">
    <p class="MsoNormal">
        <b>Lehrveranstaltungen </b>   <br>
