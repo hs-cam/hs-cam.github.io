@@ -281,6 +281,7 @@
 
 <!-- ........................ ergänzendes Lehrmaterial ............................ -->
  <table border="1" width="730" id="Lehre">
+ <tr>
  <td  colspan="3" style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
   <p class=MsoNormal id="Tutorials">
     <span style='font-size:18.0pt;line-height:107%'>                             
