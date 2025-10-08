@@ -239,7 +239,8 @@
        <span style='font-size:16.0pt;line-height:107%'>
          <b>ergänzendes Lehrmaterial </b> 
          <br>
-         Tutorials, Handbooks, Toolboxes, Literatur (weitere Information in der Vorlesung)
+         Tutorials, Handbooks, Toolboxes, Literatur <br>
+           (weitere Information in der Vorlesung)
        </span>
      </p>
    
