@@ -515,9 +515,7 @@
   <p class=MsoNormal>Prof. Dr. Schmatz 2020   <br>
    <b>___________________________________________________________________________________________</b>
   </p>
-
-
-    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="100" /> <br>
+  <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="100" /> <br>
 
      <!-- ................ Lehrmaterial ........................ -->
 
