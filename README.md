@@ -1,6 +1,5 @@
 <html>
 <head>
-
 </head>
 <body>
     <!-- Logo -->
@@ -42,9 +41,7 @@
                     Hochschule Bremen <br>
                     Neustadtswall 30  <br>
                     28199 Bremen      
-                </p>
-         
-         
+                </p>  
             <!-- ............... Ansprechpartner .................. -->
             <p class="MsoNormal">
                 <b>Ansprechpartner</b>    <br>
@@ -94,8 +91,7 @@
                  <strong>-</strong>
                  <a href="https://www.hs-bremen.de/informationen-fuer/alumni/" title="ALUMNI">
                   ehemalige Studierende ALUMNI        </a> <br />
-              </p>
-         
+              </p>     
             <!-- ................... Hochschullehre .................... -->
            <p class="MsoNormal">
             <b> Hochschullehre </b> <br>
@@ -191,7 +187,6 @@
                     Introduction to Modern Telecommunication </a>  (Malaysia) <br />
             </p>
            </td>
-         
            <!-- ................... weitere Unterlagen und Empfehlungen ...................... -->
            <td>
             <p class="MsoNormal">
@@ -230,7 +225,6 @@
         </td>
         </table>       
         <table>
-
 <!-- ........................ ergänzendes Lehrmaterial ............................ -->
 <table border="1"  width="720" id="Lehre">
     <tr>
@@ -240,13 +234,11 @@
          <b>ergänzendes Lehrmaterial </b> 
          <br>
          Tutorials, Handbooks, Toolboxes, Literatur <br>
-           (weitere Information in der Vorlesung)
+           (weitere Informationen in der Vorlesung)
        </span>
      </p>
-   
      </td>
-    </tr>
-   
+    </tr>   
     <tr>
      <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
        <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
@@ -279,7 +271,6 @@
        </p>
      </td>
     </tr>
-   
     <tr>
      <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
        <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
@@ -312,7 +303,6 @@
        </p>
      </td>
     </tr>
-   
     <tr>
      <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
        <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
@@ -344,8 +334,7 @@
           </a>
        </p>
      </td>
-    </tr>
-   
+    </tr> 
     <tr>
      <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
        <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
@@ -377,8 +366,7 @@
           </a>
        </p>
      </td>
-    </tr>
-   
+    </tr>  
     <tr>
      <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
        <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
@@ -402,8 +390,7 @@
            src="https://webshare.hs-bremen.de/f/344dedc49efa4bfda4a6/?dl=1"></span></a>
        </p>
      </td>
-    </tr>
-   
+    </tr>  
     <tr>
      <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
        <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
@@ -426,8 +413,7 @@
            src="https://webshare.hs-bremen.de/f/b9f55c0dda834a1c9aca/?dl=1"></span></a>
        </p>
      </td>
-    </tr>
-   
+    </tr> 
     <tr>
      <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
        <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
@@ -450,8 +436,7 @@
            src="https://webshare.hs-bremen.de/f/e711fec3456d4592bb2e/?dl=1"></span></a>
        </p>
      </td>
-    </tr>
-   
+    </tr> 
     <tr>
      <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
        <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
@@ -475,7 +460,6 @@
      </p>
      </td>
     </tr>
-   
     <tr>
      <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
        <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
