@@ -258,7 +258,7 @@
  </tr>
 
  <tr>
-  <td width=243 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
     <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
        <a href="#Tut001">
         <span style='color:windowtext;text-decoration:none'>
@@ -268,7 +268,7 @@
        </a>
     </p>
   </td>
-  <td width=243 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
     <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
        <a href="#Tut002">
         <span style='color:windowtext;text-decoration:none'>
@@ -278,7 +278,7 @@
        </a>
     </p>
   </td>
-  <td width=244 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
     <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
        <a href="#Tut003">
         <span style='color:windowtext;text-decoration:none'>
