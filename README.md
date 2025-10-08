@@ -6,7 +6,6 @@
    <meta http-equiv="refresh" content="30">
    <meta name="H.S." content="gp" />
    <meta name="autor" content="Prof. Dr.-Ing. Herbert Schmatz">
-   <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title> INT - HS-BREMEN </title>
 </head>
 
