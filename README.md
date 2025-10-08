@@ -210,40 +210,31 @@
     <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.hs-bremen.de/studieren/studiengang/elektrotechnik-b-eng/">
         Elektrotechnik B.Eng. </a> <br>
-
     <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.mathcad.com/de/try-and-buy/mathcad-express-free-download">
         Mathcad Express (Download) </a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
+    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://aulis.hs-bremen.de/login.php?  target=crs_366541&cmd=force_login&lang=de">
          Mathcad 15 (Download) (für Kursteilnehmer) </a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
+    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://smath.com/en-US/view/SMathStudio/summary">
          SMath Studio (Ersatz für Mathcad 15)  </a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
+    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://de.mathworks.com/products/matlab.html">
         MATLAB und Simulink (Download)  </a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
+    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://ltspice.analog.com/software/LTspice64.msi">
         LTspice (Download)  </a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
+    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.malavida.com/en/soft/pspice/download">
         OrCAD PSpice Student 9.1 (Download)  </a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
+    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&client_id=hsbremen">
         Vorlesungs- und Seminarunterlagen (AULIS)  </a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
+    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&client_id=hsbremen">
         Laborversuche (AULIS)  </a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
+    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&client_id=hsbremen">
         Literatur (AULIS)  </a> <br>
   </p>
