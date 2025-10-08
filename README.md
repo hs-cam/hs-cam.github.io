@@ -59,18 +59,13 @@
        <a href="mailto:herbert.schmatz@hs-bremen.de" title="E-Mail senden">
          herbert.schmatz@hs-bremen.de </a> <br>
    </p>
-
-
-
-
-   <!-- ARBEITSSCHWERPUNKTE -->
+     <!-- ARBEITSSCHWERPUNKTE -->
       <p class="MsoNormal">
       <b>Arbeitsschwerpunkte </b> <br>
       Anwendungsbezogene Forschung und Entwicklung,<br>
       Transfer wissenschaftlicher Erkenntnisse in die Wirtschaft,<br>
       Weiterbildung und Hochschullehre <br>
       </p>
-
     <!-- INTERNATIONALE KOOPERATIONEN -->
      <p class="MsoNormal">
       <b> Internationale Kooperationen </b> <br />
@@ -84,71 +79,54 @@
       <strong>-</strong>
       <a href="https://www.univ-artois.fr/">Universite d'Artois Bethune </a>, (FR). <br />
      </p>
-
-
-    <!-- weitere Aktivitäten -->
+   <!-- weitere Aktivitäten -->
      <p class="MsoNormal">
      <b>weitere Aktivitäten</b>    <br />
         <strong>-</strong>
         <a href="https://www.hs-bremen.de/die-hsb/fakultaeten/elektrotechnik-und-informatik/forschung-und-transfer/institut-fuer-nachrichtentechnik/">
         Institut für Nachrichtentechnik (intern)  </a> <br />
-
         <strong>-</strong>
         <a href="#EMV" title="EMV_05.10.1995">
         <!-- https://webshare.hs-bremen.de/f/e384f198e7e34436a5de/ -->
           EMV-Labor ARD 5.10.1995 </a> <br/>
-
         <strong>-</strong>
         <a href="#3D-TV" title="3D-Fernsehtechnik">
         3D-Fernsehtechnik, ARD 8.11.2001 </a> <br />
-
         <strong>-</strong>
         <a href="#3D-Video" title="3D-Videotechnik">
         3D-Videotechnik, SAT1 8.11.2001  </a><br />
-
         <strong>-</strong>
         <a href="#DLR" title="Luft- und Raumfahrt">
         Luft- und Raumfahrt 2009         </a> <br />
-
         <strong>-</strong>
         <a href="https://www.hs-bremen.de/informationen-fuer/alumni/" title="ALUMNI">
          ehemalige Studierende ALUMNI        </a> <br />
      </p>
 
    <!-- ................... Hochschullehre .................... -->
-
-  <p class="MsoNormal" >
+  <p class="MsoNormal">
    <b> Hochschullehre </b> <br>
-
     <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="#Lehre"  title="Lehre">  Lehrveranstaltungen
         </a> <br>
-
      <span style="font-size:10.0pt;font-family:Symbol">· </span>
         <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen"
         title="Jahre">
         1975-1992, 1992-2018, ab 2019 (Zugriff über AULIS) </a> 
    </p>
-
-
   <!-- ................... Forschung .................... -->
-
   <p class="MsoNormal" >
    <b> Forschung </b> (passwortgeschützt)<br>
-
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen"
         title="Publikationen">
         Forschungsprojekte, Publikationen  </a> <br>
-
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&amp;client_id=hsbremen"
         title="Tagungen">
         Tagungen, Konferenzen </a>
   </p>
-
   </td>
-
 <!-- .......................... Bilder ..................... -->
   <td>
      <a href="mailto:herbert.schmatz@hs-bremen.de">
@@ -168,8 +146,6 @@
       <span style="font-size:10.0pt;font-family:Symbol">· </span>
       Elektromagnetische Verträglichkeit <br> <br>
     </p>
-
-
      <a href="https://www.buchfreund.de/de/d/p/111164561/elektrische-nachrichtentechnik-1-3">
        <img id="90.Geburtstag" src="https://webshare.hs-bremen.de/f/a202256070c6462699f4/?dl=1"
           width="248" height="173" border="0">
