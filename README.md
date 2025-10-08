@@ -1,9 +1,12 @@
 <html lang="de">
 <head>
    <meta charset="utf-8">
-   <meta name="description" content="" />
+   <meta name="description" content="Institut für Nachrichtentechnik Bremen" />
    <meta name="keywords" content="HTML, Metatags" />
+   <meta http-equiv="refresh" content="30">
    <meta name="H.S." content="gp" />
+   <meta name="autor" content="Prof. Dr.-Ing. Herbert Schmatz">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <title> INT - HS-BREMEN </title>
 </head>
 
@@ -149,8 +152,6 @@
         Tagungen, Konferenzen </a>
   </p>
 
-
-
   </td>
 
 <!-- .......................... Bilder ..................... -->
@@ -189,51 +190,37 @@
  </td>
 </table>
 
- <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="400" /> <br>
+ <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="00" /> <br>
 
  <!-- ..................... Lehrveranstaltungen ............................ -->
  <table border="1" width="730" id="Lehre">
   <td width="365">
    <p class="MsoNormal">
-   <form action="#Home" ><input type="submit" value="Home" /></form>
        <b>Lehrveranstaltungen </b>   <br>
-
-      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-
-     <a href="#GEL1">
+      <span style="font-size:10.0pt;font-family:Symbol">·       </span>
+        <a href="#GEL1">
         GEL1 - Grundlagen der Elektrotechnik 1 </a> <br>
-
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="#GEL2">
         GEL2 - Grundlagen der Elektrotechnik 2 </a> <br>
-
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="#SYS">
         SuS - Signale und Systeme </a>  <br>
-
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="#GIT">
         GIT - Grundlagen der Informationstechnik </a>  <br>
-
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="#EMW">
         EMW – Elektromagnetische Wellen  </a> <br>
-
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="#DSV">
         DSV - Digitale Signalverarbeitung  </a> <br>
-
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="#ITS">
         ITS - Informationstechnische Systeme  </a> <br>
-
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="#PJIT">
         PJIT - Projekt Informationstechnik  </a> <br>
-
-
-
-
      <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
            cmd=view&amp;ref_id=847717">
@@ -242,23 +229,16 @@
         <a href="https://aulis.hs-bremen.de/ilias.php?baseClass=ilrepositorygui&amp;
            cmd=view&amp;ref_id=847697">
            Introduction to Modern Telecommunication </a>  (Malaysia) <br />
-
    </p>
+  </td>
 
-<!-- ................... weitere Unterlagen und Empfehlungen ...................... -->
-
+  <!-- ................... weitere Unterlagen und Empfehlungen ...................... -->
+  <td>
    <p class="MsoNormal">
        <b>weitere Unterlagen und Empfehlungen </b>   <br>
-
     <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.hs-bremen.de/studieren/studiengang/elektrotechnik-b-eng/">
         Elektrotechnik B.Eng. </a> <br>
-
-<!--
-    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-        <a href="https://www.hs-bremen.de/assets/hsb/de/Dokumente/Fakult%C3%A4ten/Fakult%C3%A4t_4/Elektrotechnik/Modulhandbuch/Modulhandbuch_ET_ISTAP_2016.pdf">
-         Elektrotechnik B. Eng. - Modulhandbuch </a>  <br>
--->
 
     <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://www.mathcad.com/de/try-and-buy/mathcad-express-free-download">
@@ -274,67 +254,389 @@
 
    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
         <a href="https://de.mathworks.com/products/matlab.html">
-        MATLAB und Simulink (Download)  </a>
-  </p>
-  </td>
-
-
-<!-- ...................... Tutorials ..................... -->
-<td>
-  <p class="MsoNormal">
-        <a id="Tutorials">
-          <b> - Tutorials - </b>  </a><br />
+        MATLAB und Simulink (Download)  </a> <br>
 
    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-     <a href="#Tut001">
-     komplexe Zeitfunktion   </a>  <br>
+        <a href="https://ltspice.analog.com/software/LTspice64.msi">
+        LTspice (Download)  </a> <br>
 
    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-     <a href="#Tut002">
-     komplexer Drehzeiger     </a>  <br>
+        <a href="https://www.malavida.com/en/soft/pspice/download">
+        OrCAD PSpice Student 9.1 (Download)  </a> <br>
 
    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-     <a href="#Tut003">
-     Fourierreihe Zeiger- und Liniendiagramm </a>  <br>
+        <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&client_id=hsbremen">
+        Vorlesungs- und Seminarunterlagen (AULIS)  </a> <br>
 
    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-     <a href="#Tut004">
-     Laplace-Transformation, Zeitfunktion - PN-Plan  </a>  <br>
+        <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&client_id=hsbremen">
+        Laborversuche (AULIS)  </a> <br>
 
    <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-     <a href="#Tut005">
-     Faltungsoperation am Beispiel des RC-Tiefpasses </a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-     <a href="#Tut006">
-     Raised Cosinus  </a>  <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-     <a href="#Tut007">
-     Frequenzspektrum der Winkelmodulation</a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-     <a href="#Tut008">
-     Winkelmodulation ohne u. mit Bandbegrenzung</a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-     <a href="#Tut009"> 
-      CPFSK-Spektrum  </a>  <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-     <a href="#Tut010">
-     Stehende Welle mit komplexem Abschluß  </a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-     <a href="#Tut011">
-     EMV-Labor (Simulation inRaum- und Zeit) </a> <br>
-
-   <span style="font-size:10.0pt;font-family:Symbol">·        </span>
-     <a href="#Tut012">
-     Frequenzabhängige Richtcharakteristik des DUT</a> <br>
+        <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&client_id=hsbremen">
+        Literatur (AULIS)  </a> <br>
   </p>
   </td>
 </table>
+
+<!-- ........................ ergänzendes Lehrmaterial ............................ -->
+ <table border="1" width="730" id="Lehre">
+ <td  colspan="3" style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal id="Tutorials">
+    <span style='font-size:18.0pt;line-height:107%'>                             
+      <b>ergänzendes Lehrmaterial </b> <br>
+    </span>
+  </p>
+  ........................ Tutorials, Handbooks, Toolboxes, Literatur  (weitere Informationen in der Vorlesung) ...................
+ </tr>
+
+ <tr>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#Tut001">
+        <span style='color:windowtext;text-decoration:none'>
+          <img border=0 width=239 height=175 id="komplexe_Zeitfunktion" 
+            src="https://webshare.hs-bremen.de/f/4e701bddf4484e52b596/?dl=1">
+        </span>
+       </a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#Tut002">
+        <span style='color:windowtext;text-decoration:none'>
+          <img border=0 width=239 height=175 id="komplexer Drehzeiger" 
+            src="https://webshare.hs-bremen.de/f/d5c067590292439796c0/?dl=1">
+        </span>
+       </a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#Tut003">
+        <span style='color:windowtext;text-decoration:none'>
+          <img border=0 width=239 height=175 id="Zeigerdiagramm und Liniendiagramm" 
+            src="https://webshare.hs-bremen.de/f/9e004afda4ea4a088dc3/?dl=1">
+        </span>
+       </a>
+    </p>
+  </td>
+ </tr>
+
+ <tr>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#Tut004">
+        <span style='color:windowtext;text-decoration:none'>
+          <img border=0 width=239 height=175 id="Laplace-Transformation" 
+            src="https://webshare.hs-bremen.de/f/eb8dce3f46be4c519779/?dl=1">
+       </span>
+      </a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#Tut005">
+        <span style='color:windowtext;text-decoration:none'>
+          <img border=0 width=239 height=175 id="Faltung" 
+            src="https://webshare.hs-bremen.de/f/468cff6f802c4b0098b9/?dl=1">
+        </span>
+       </a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#Tut006">
+        <span style='color:windowtext;text-decoration:none'>
+           <img border=0 width=239 height=175 id="raised cosine.png" 
+             src="https://webshare.hs-bremen.de/f/62ba03f763c940d1b49d/?dl=1">
+        </span>
+        </a>
+    </p>
+  </td>
+ </tr>
+
+<tr>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#Tut007">
+        <span style='color:windowtext;text-decoration:none'>
+           <img border=0 width=239 height=175 id="FM_Spektrum" 
+             src="https://webshare.hs-bremen.de/f/c5c4759be7574c4db4b8/?dl=1">
+        </span>
+       </a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#Tut008">
+        <span style='color:windowtext;text-decoration:none'>
+          <img border=0 width=239 height=175 id="Winkelmodulation.png" 
+            src="https://webshare.hs-bremen.de/f/5c1f00b0a30844f9a9e9/?dl=1">
+         </span>
+        </a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#Tut009">
+        <span style='color:windowtext;text-decoration:none'>
+         <img border=0 width=239 height=175 id="CPFSK" 
+           src="https://webshare.hs-bremen.de/f/7cb46cb689914077bbb1/?dl=1">
+        </span>
+       </a>
+    </p>
+  </td>
+ </tr>
+
+<tr>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#Tut010">
+        <span style='color:windowtext;text-decoration:none'>
+          <img border=0 width=239 height=175 id="Stehende Welle" 
+           src="https://webshare.hs-bremen.de/f/9fb5fbfafaf84fa0af45/?dl=1">
+        </span>
+       </a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#Tut011">
+        <span style='color:windowtext;text-decoration:none'>
+          <img border=0 width=239 height=175 id="EMV-Labor" 
+            src="https://webshare.hs-bremen.de/f/38ce30ad585849dbb1a9/?dl=1">
+         </span>
+        </a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#Tut012">
+        <span style='color:windowtext;text-decoration:none'>
+         <img border=0 width=239 height=175 id="EMV-Messung.png" 
+          src="https://webshare.hs-bremen.de/f/0be68ae3d8344e95b857/?dl=1">
+        </span>
+       </a>
+    </p>
+  </td>
+ </tr>
+
+ <tr>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#EE"><span style='color:windowtext;text-decoration:none'>
+       <img border=0 width=239 height=175 id="img_01" 
+        src="https://webshare.hs-bremen.de/f/5f15f7da2da24a028dec/?dl=1"></span></a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#Hicks2">
+       <span style='color:windowtext;text-decoration:none'>
+       <img border=0 width=239 height=175 id="img_02" 
+        src="https://webshare.hs-bremen.de/f/5fb8ed29f3d043bfba86/?dl=1"></span></a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#power"><span style='color:windowtext;text-decoration:none'>
+       <img border=0 width=239 height=175 id="img_03" 
+        src="https://webshare.hs-bremen.de/f/344dedc49efa4bfda4a6/?dl=1"></span></a>
+    </p>
+  </td>
+ </tr>
+
+ <tr>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#signal"><span style='color:windowtext;text-decoration:none'>
+       <img border=0 width=239 height=175 id="img_04" 
+        src="https://webshare.hs-bremen.de/f/97fa7154c90b423a92ba/?dl=1"></span></a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#improc"><span style='color:windowtext;text-decoration:none'>
+       <img border=0 width=239 height=175 id="img_05" 
+        src="https://webshare.hs-bremen.de/f/041ab82a8e4844c08eae/?dl=1"></span></a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#wavelets"><span style='color:windowtext;text-decoration:none'>
+       <img border=0 width=239 height=175 id="img_06" 
+        src="https://webshare.hs-bremen.de/f/b9f55c0dda834a1c9aca/?dl=1"></span></a>
+    </p>
+  </td>
+ </tr>
+
+ <tr>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#solve"><span style='color:windowtext;text-decoration:none'>
+       <img border=0 width=239 height=175 id="img_07" 
+        src="https://webshare.hs-bremen.de/f/ea276a1e810b4c6b8f8b/?dl=1"></span></a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#FEBEG"><span style='color:windowtext;text-decoration:none'>
+       <img border=0 width=239 height=175 id="img_08" 
+        src="https://webshare.hs-bremen.de/f/dd50b2e4a40f4bc8818d/?dl=1"></span></a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#astro"><span style='color:windowtext;text-decoration:none'>
+       <img border=0 width=239 height=175 id="img_09" 
+        src="https://webshare.hs-bremen.de/f/e711fec3456d4592bb2e/?dl=1"></span></a>
+    </p>
+  </td>
+ </tr>
+
+ <tr>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#colphys"><span style='color:windowtext;text-decoration:none'>
+       <img border=0 width=239 height=175 id="img_10" 
+        src="https://webshare.hs-bremen.de/f/b127363600ce441f8c0c/?dl=1"></span></a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#Hicks1"><span style='color:windowtext;text-decoration:none'>
+       <img border=0 width=239 height=175 id="img_11" 
+        src="https://webshare.hs-bremen.de/f/4d8cde227d284cabbcd2/?dl=1"></span></a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+  <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+     <a href="#roarks"><span style='color:windowtext;text-decoration:none'>
+     <img border=0 width=239 height=175 id="img_12" 
+      src="https://webshare.hs-bremen.de/f/4577b61536cb4dffa65b/?dl=1"></span></a>
+  </p>
+  </td>
+ </tr>
+
+ <tr>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+       <a href="#structur"><span style='color:windowtext;text-decoration:none'>
+       <img border=0 width=239 height=175 id="img_13" 
+        src="https://webshare.hs-bremen.de/f/087700098b7543d0b9df/?dl=1"></span></a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+     <a href="#thermal"><span style='color:windowtext;text-decoration:none'>
+     <img border=0 width=239 height=175 id="img_14" 
+      src="https://webshare.hs-bremen.de/f/76d7550286e94cf38f26/?dl=1"></span></a>
+    </p>
+  </td>
+  <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
+    <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:normal'>
+     <a href="#contents">
+       <span style='color:windowtext;text-decoration:none'>
+       <img border=0 width=235 height=175 id="img_15" 
+        src="https://webshare.hs-bremen.de/f/151c1801ec79444d9df0/?dl=1"></span>
+     </a>
+     </p>
+  </td>
+ </tr>
+</table>
+
+ <p class=MsoNormal>Prof. Dr. Schmatz 2020   <br>
+   <b>___________________________________________________________________________________________</b>
+ </p>
+
+
+ <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="100" /> <br>
+
+<!-- ................ Lehrmaterial ........................ -->
+
+    <a href="#img_01">  
+       <img id="EE" src="https://webshare.hs-bremen.de/f/c7637f414ddd4db5b575/?dl=1" 
+       width=730 height=1034  border="2" />   <!-- width=558 height=790  border="2" -->
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="Hicks2" src="https://webshare.hs-bremen.de/f/6f6557f031fe4e9b8895/?dl=1" 
+       width=730 height=975  border="2" />   <!-- width=558 height=750  -->
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="power" src="https://webshare.hs-bremen.de/f/8f65bf1f911e4c1eaf1a/?dl=1" 
+       width=730 height=1782  border="2" />  <!-- width=558 height=1370 -->
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="signal" src="https://webshare.hs-bremen.de/f/a8b406ed3e4c408e9e22/?dl=1" 
+       width=730 height=1034  border="2" />
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="improc" src="https://webshare.hs-bremen.de/f/de956b2847b44488afbc/?dl=1" 
+       width=730 height=3115  border="2" />  <!-- width=558 height=2396 -->
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="wavelets" src="https://webshare.hs-bremen.de/f/0b2cd794dec942f892d9/?dl=1" 
+       width=730 height=1034  border="2" />
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="solve" src="https://webshare.hs-bremen.de/f/97a3a3d82fde44cd8052/?dl=1" 
+       width=730 height=1034  border="2" />
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="FEBEG" src="https://webshare.hs-bremen.de/f/9af9fc237c224d5398aa/?dl=1" 
+       width=730 height=1034  border="2" />
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="astro" src="https://webshare.hs-bremen.de/f/e2421b939cc540a98f89/?dl=1" 
+       width=730 height=1034  border="2" />
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="FEBEG" src="https://webshare.hs-bremen.de/f/9af9fc237c224d5398aa/?dl=1" 
+       width=730 height=1034  border="2" />
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="colphys" src="https://webshare.hs-bremen.de/f/d89f7238c99843c9a140/?dl=1" 
+       width=730 height=5914 border="2" />
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="Hicks1" src="https://webshare.hs-bremen.de/f/2fd940d007804513b6b2/?dl=1" 
+       width=730 height=1034  border="2" />
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="roarks" src="https://webshare.hs-bremen.de/f/3f4ff6f40f184de497fe/?dl=1" 
+       width=730 height=2803  border="2" />
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="structur" src="https://webshare.hs-bremen.de/f/fd4f1ee71d9a468a80c6/?dl=1" 
+       width=730 height=1034  border="2" />
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="thermal" src="https://webshare.hs-bremen.de/f/f1b5cd0b3f6d44118678/?dl=1" 
+       width=730 height=3531  border="2" />
+    </a>
+    <br>
+    <a href="#img_01">  
+       <img id="contents" src="https://webshare.hs-bremen.de/f/151c1801ec79444d9df0/?dl=1" 
+       width=730 height=702  border="2" />
+    </a>
+    <br>
+
+
    <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
    width="0" height="400" /> <br>
 
