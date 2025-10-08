@@ -288,10 +288,10 @@
       <b>ergänzendes Lehrmaterial </b> <br>
     </span>
   </p>
- </td>
- </tr>
+
   ........................ Tutorials, Handbooks, Toolboxes, Literatur  (weitere Informationen in der Vorlesung) ...................
- 
+  </td>
+ </tr>
 
  <tr>
   <td width=240 style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
