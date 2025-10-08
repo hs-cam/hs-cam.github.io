@@ -516,9 +516,7 @@
    <b>___________________________________________________________________________________________</b>
   </p>
   <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" width="0" height="100" /> <br>
-
      <!-- ................ Lehrmaterial ........................ -->
-
    <a href="#img_01">  
        <img id="EE" src="https://webshare.hs-bremen.de/f/c7637f414ddd4db5b575/?dl=1" 
        width=730 height=1034  border="2" />   <!-- width=558 height=790  border="2" -->
@@ -599,10 +597,10 @@
        width=730 height=702  border="2" />
     </a>
     <br>
-
+    </table>
     <img src="https://webshare.hs-bremen.de/f/f35e2dfef31f4e1cab04/?dl=1" 
       width="0" height="400" /> <br>
- </table>
+
  <!-- ................ Videos ................................. -->
 
  <!-- .................EMV-Labor............................... -->
