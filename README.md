@@ -276,7 +276,7 @@
         <a href="https://www.aulis.hs-bremen.de/goto.php?target=crs_366541&client_id=hsbremen">
         Literatur (AULIS)  </a> <br>
   </p>
-  </td>
+ </td>
 </table>
 
 <!-- ........................ ergänzendes Lehrmaterial ............................ -->
@@ -284,12 +284,14 @@
  <tr>
  <td  colspan="3" style='width:152.15pt;padding:0cm 0cm 0cm 0cm'>
   <p class=MsoNormal id="Tutorials">
-    <span style='font-size:18.0pt;line-height:107%'>                             
-      <b>ergänzendes Lehrmaterial </b> <br>
+    <span style='font-size:16.0pt;line-height:107%'>                             
+      <b>ergänzendes Lehrmaterial </b> 
+      <br>
+      Tutorials, Handbooks, Toolboxes, Literatur (weitere Information in der Vorlesung)
     </span>
   </p>
 
-  ........................ Tutorials, Handbooks, Toolboxes, Literatur  (weitere Informationen in der Vorlesung) ...................
+
   </td>
  </tr>
 
